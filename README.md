@@ -35,11 +35,35 @@ sistema, los créditos y la pantalla de fin de demo.
 
 ---
 
-## Cómo usarlo
+## Instalación
 
-Necesitas tu propia copia de la demo. Este repositorio **no contiene ningún
-archivo del juego**: solo las traducciones y las herramientas que generan el
-parche a partir de tu copia.
+Sin instalar nada y en menos de un minuto:
+
+1. Descarga el ZIP de la [última versión](https://github.com/SakasUWU/condominium-no-exit-es/releases/latest).
+2. Descomprímelo **dentro de la carpeta del juego**, la que contiene `Game.exe`.
+3. Doble clic en **`Instalar.bat`**.
+
+```
+condominium-demo-win-en/
+  Game.exe
+  www/
+  Instalar.bat        <-- aquí
+  Desinstalar.bat
+  _parche/
+```
+
+El instalador guarda antes una copia de los archivos originales en
+`_original_ingles/`, así que puedes volver al inglés cuando quieras con
+`Desinstalar.bat`. No hace falta Node, ni Python, ni nada: usa PowerShell,
+que ya viene con Windows.
+
+---
+
+## Compilar el parche tú mismo (opcional)
+
+Solo si quieres cambiar la traducción o adaptarla a otra versión del juego.
+Este repositorio **no contiene ningún archivo del juego**: genera el parche a
+partir de tu propia copia.
 
 ### 1. Requisitos
 
@@ -87,6 +111,7 @@ tools/rpgmv-crypt.js  cifrado/descifrado de recursos .rpgmvp de RPG Maker MV
 tools/images.js       descifra las imágenes y vuelve a cifrar las traducidas
 tools/img_*.py        recrean cada grupo de imágenes con texto en español
 tools/textwidth.js    mide texto con las métricas reales del TTF del juego
+installer/            instalador de un clic que se empaqueta en el ZIP de la Release
 build.js              orquesta todo el proceso
 ```
 
