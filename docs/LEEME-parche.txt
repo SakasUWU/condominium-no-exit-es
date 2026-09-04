@@ -1,0 +1,37 @@
+CONDOMINIUM: NO EXIT — Traducción al español (demo)
+====================================================
+
+Cómo aplicarlo
+--------------
+Copia el contenido de esta carpeta sobre la carpeta del juego (la que
+contiene Game.exe) y acepta reemplazar los archivos.
+
+    condominium-demo-win-en/
+      Game.exe
+      www/            <-- aquí
+
+Haz antes una copia de www/data, www/img, www/js/plugins.js y www/index.html
+si quieres poder volver al inglés.
+
+Qué se ha traducido
+-------------------
+- Todo el texto del juego: diálogos, narración, opciones, objetos y
+  descripciones, además de los términos del motor.
+- También los fragmentos que la versión inglesa había dejado en coreano
+  (varios objetos, un par de notas y los mensajes del sistema).
+- Las imágenes con texto: menú del título, menú del teléfono, las pantallas
+  de GUÍA, los fondos de menú, el mensajero completo, los consejos de la
+  pantalla de muerte, el aviso de contenido, los créditos y el final de demo.
+
+Notas
+-----
+- Variante: español neutro latinoamericano.
+- Traducción por sentido: se prioriza el tono y la intención del original
+  por encima de la literalidad.
+- Se conservan intactos los códigos de control de RPG Maker y la sangría
+  con espacios ideográficos que usa el juego.
+- Cada línea se midió con la fuente real del juego para que no se salga
+  del cuadro de mensaje.
+- Nombres propios (RIO, Jun) y el título del juego se mantienen.
+
+Traducción no oficial hecha por fans. No está afiliada al equipo del juego.

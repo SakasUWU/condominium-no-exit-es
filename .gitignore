@@ -1,0 +1,14 @@
+# Configuración local (contiene la ruta de tu copia del juego)
+config.json
+
+# Todo lo derivado del juego: nunca se sube al repositorio
+work/
+build/
+*.rpgmvp
+*.rpgmvo
+*.rpgmvm
+
+# Sistema
+Thumbs.db
+desktop.ini
+__pycache__/

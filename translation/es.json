@@ -1,0 +1,2928 @@
+{
+ "fdbb299083da8125": [
+  "RIO"
+ ],
+ "6d632ac786f4b78e": [
+  "void1"
+ ],
+ "6256f49f614ffc55": [
+  "void2"
+ ],
+ "2381055ddd8809cf": [
+  "void3"
+ ],
+ "a10c0198b1d22a18": [
+  "RIO_light"
+ ],
+ "86a0dbcadb369bb4": [
+  "CHAOS"
+ ],
+ "213250b72b96f12c": [
+  "CHAOS_light"
+ ],
+ "4e27c68a4257f264": [
+  "flop1"
+ ],
+ "9e05e6832caffca5": [
+  "mouse"
+ ],
+ "238d9aefc532bd41": [
+  "flop2"
+ ],
+ "ba24cf0adad0c125": [
+  "Escudo"
+ ],
+ "a35e68beb381d29a": [
+  "Sombrero"
+ ],
+ "66dd73d99dc06485": [
+  "Ropa"
+ ],
+ "f8435cd16d04d859": [
+  "Anillo"
+ ],
+ "be8063e0bd76215c": [
+  "Héroe"
+ ],
+ "100e74e5e2a26f4b": [
+  "Guerrero"
+ ],
+ "a970260045e52d81": [
+  "Mago"
+ ],
+ "9ca94260330678d6": [
+  "Clérigo"
+ ],
+ "3ce12d9f31d33de0": [
+  "",
+  "\\TA[1]¿Seguro que quieres salir?"
+ ],
+ "f0a35933d674bce5": [
+  "Salir",
+  "Cancelar"
+ ],
+ "42711063adbec7cc": [
+  "",
+  "\\TA[1]La batería ya está al máximo."
+ ],
+ "833ae83a5c53c452": [
+  "",
+  "\\TA[1]\"Para quien algún día encuentre este cuaderno.\""
+ ],
+ "909fe14d6629b57e": [
+  "",
+  "\\TA[1]\"Si estás leyendo esto,\\. \\c[18]lo más probable es que ya no estés en la realidad.\\c[0]\\.\\.",
+  "A mí, al menos, así me pasó.\""
+ ],
+ "d784e0a85a6097ee": [
+  "",
+  "\\TA[1]\"Nunca logré saber si trajeron a alguien más aquí. \\.\\.",
+  "Pero de algo estoy seguro: este lugar desafía toda lógica.\""
+ ],
+ "b522be24d973b1c5": [
+  "",
+  "\\TA[1]\"Por más pisos que bajes, siempre te esperan los mismos pasillos. \\.\\.",
+  "Es como estar atrapado dentro de un \\c[18]CONDOMINIO\\c[0] sin fin.\""
+ ],
+ "9efcd5beeacca50f": [
+  "",
+  "\\TA[1]\"\\c[18]Por difícil que resulte, no te fíes del sentido común.\\.\\.",
+  "\\c[0] Este lugar se deforma incluso mientras escribo esto.\""
+ ],
+ "7d816eee2d6b8d01": [
+  "",
+  "\\TA[1]\"Pero no pierdas la esperanza; \\c[18]cada zona parece tener un detonante.\\c[0]\\.\\.",
+  "\\c[18]Descubre qué exige este lugar,\\c[0]\\. y podrás seguir adelante.\""
+ ],
+ "a76a9f3b991a268a": [
+  "",
+  "\\TA[1]\"Eso sí,\\. suponiendo que aún conserves la cabeza y las extremidades.\""
+ ],
+ "48360147a9aad215": [
+  "",
+  "\\TA[1]\"No sé qué pretende aprender de nosotros este lugar,\\.",
+  "pero estoy convencido de que es parte de cómo funciona este mundo.\""
+ ],
+ "4490ae96509bcc03": [
+  "",
+  "\\TA[1]\"Es una lástima que nunca se haya podido investigar como es debido.\\.\\.",
+  "...Y sí, como ya habrás supuesto, yo tampoco soy exactamente un profano en esto.\""
+ ],
+ "c88fa580ebb8ec04": [
+  "",
+  "\\TA[1]\"Esto es todo lo que puedo escribir sin que el texto se distorsione.\\.\\.",
+  "Te deseo mucha suerte en tu camino de vuelta a casa.\""
+ ],
+ "71cd5b668d2a8fc9": [
+  "",
+  "\\TA[1]No puedes usar eso aquí."
+ ],
+ "743ecd2fcd9eb423": [
+  "",
+  "\\TA[1]La cerradura cedió.\\.\\.",
+  "Mejor dejo la llave puesta, por si vuelve a cerrarse."
+ ],
+ "100c70a3ff1931b1": [
+  "",
+  "\\TA[1]El cable del teléfono ya está cortado."
+ ],
+ "3700f53033590b44": [
+  "",
+  "\\TA[1]¿Cortar el cable del teléfono con las \\i[3]\\c[18] tijeras de oficina?"
+ ],
+ "91f2acd0972bd045": [
+  "Cortar",
+  "Cancelar"
+ ],
+ "53356ee8b1fa66ef": [
+  "",
+  "\\TA[1]Corté el cable del teléfono con las \\i[3]\\c[18] tijeras de oficina."
+ ],
+ "22ff4e580590fe14": [
+  "",
+  "　　　　　\\c[7](...Tomé la decisión correcta, ¿verdad...?)"
+ ],
+ "2a2593e27fbd3efd": [
+  "",
+  "\\TA[1]¿Abrir la cerradura del armario?"
+ ],
+ "dc41da734711bc35": [
+  "Abrirlo",
+  "Cancelar"
+ ],
+ "496862d03f0b3923": [
+  "",
+  "\\TA[1]En cuanto la puerta se abrió,\\. algo salió disparado de adentro."
+ ],
+ "ef0cf59fd5e225e5": [
+  "",
+  "\\TA[1]Abrí la puerta y me guardé la tarjeta en el bolsillo."
+ ],
+ "1dbf327a5357438b": [
+  "",
+  "　　　　　\\c[7](...Si se me viene algún número a la mente,\\.",
+  "　　　　　debería intentar llamarlo.)"
+ ],
+ "ed272faae01268f4": [
+  "",
+  "　　　　　\\c[7](……………….)"
+ ],
+ "0db8b3ae1d3e2f43": [
+  "",
+  "　　　　　\\c[7](...No creo que ese sea el número correcto.)"
+ ],
+ "fd3fbce7adba001f": [
+  "",
+  "\\TA[1]¿Firmar con la \\i[3]\\c[18] pluma fuente?"
+ ],
+ "7f78c58af5dd7c96": [
+  "Firmar",
+  "Cancelar"
+ ],
+ "99e62db36d76a5bf": [
+  "",
+  "\\TA[1]Ya está firmado."
+ ],
+ "5bd6dec864f8e1b2": [
+  "",
+  "\\TA[1]Firmado con la \\i[3]\\c[18] pluma fuente."
+ ],
+ "d0698af1ee32113e": [
+  "",
+  "\\TA[1]Todavía no has recuperado el bolso."
+ ],
+ "55f6b6c3d2f179b8": [
+  "",
+  "　　　　　\\c[0]¡Hiik…………."
+ ],
+ "370db2f81848f3c8": [
+  "",
+  "\\TA[1]El teléfono devolvió la moneda.\\.\\.",
+  "\\i[3]\\c[18]Parece que hay algo que hacer antes de insertarla."
+ ],
+ "a904cf2cd75ab78c": [
+  "",
+  "\\TA[1]Ya no da línea."
+ ],
+ "ef706f2b91c91044": [
+  "",
+  "　　　　　\\c[18]Verificación de identidad exitosa."
+ ],
+ "0ca9717346830fc2": [
+  "",
+  "　　　　　\\c[7](………!)"
+ ],
+ "45b3191cb6f8152e": [
+  "",
+  "　　　　　\\c[18]Ingrese el número de la cláusula que desea consultar."
+ ],
+ "797e3f1ecb859751": [
+  "\\c[18]Cláusula 1",
+  "\\c[18]Cláusula 2",
+  "\\c[18]Cláusula 3",
+  "Llamar luego"
+ ],
+ "0090118cd7fa9c66": [
+  "",
+  "　　　　　\\c[18]Se aclara que \"pertenencia\" no incluye partes de su cuerpo."
+ ],
+ "fb0a517cf917b051": [
+  "",
+  "　　　　　\\c[18]Todo objeto debe ser entregado aquí,\\. ",
+  "　　　　　salvo uno que pueda acreditar su identidad."
+ ],
+ "4d3ffff0c3f41e0b": [
+  "",
+  "　　　　　\\c[18]Se aclara que la respuesta es su 'nombre'.\\.\\.",
+  "　　　　　Solo será válido si lo escribe con un instrumento de aquí."
+ ],
+ "33ff9a945ec04b1b": [
+  "",
+  "　　　　　\\c[18]Aviso. Todo sujeto que incumpla será clasificado como DESECHO.\\.\\.",
+  "　　　　　El desecho se tritura de inmediato."
+ ],
+ "1ffaeff586326683": [
+  "",
+  "\\TA[1]¿Dejar el bolso aquí?\\.\\.",
+  "Todo lo que no hayas seleccionado se quedará atrás."
+ ],
+ "0f179a998bed2e96": [
+  "Devolverlo",
+  "Cancelar"
+ ],
+ "6bb8adbc598a919a": [
+  "",
+  "\\TA[1]El bolso quedó sobre el estante."
+ ],
+ "617a5caca44d37a0": [
+  "",
+  "\\TA[1]Todo lo demás sigue dentro del bolso,",
+  "salvo el objeto que tomaste."
+ ],
+ "baef5f6a0eb9f094": [
+  "",
+  "\\TA[1]Aquí ya no hay nada más que ver."
+ ],
+ "5271a37ed6af99d2": [
+  "",
+  "\\TA[1]¿Revisar el contenido del bolso?"
+ ],
+ "e18f63462a653bec": [
+  "Revisar",
+  "Cancelar"
+ ],
+ "5c41ffc13c5cf367": [
+  "",
+  "\\TA[1]\\i[3]\\c[18] Elige el objeto que quieras examinar,\\.\\.\\c[0] o pulsa X si terminaste.\\.\\.",
+  "\\c[7](Una vez que elijas uno, ya no podrás cambiar tu elección.)"
+ ],
+ "226b3267e7b96070": [
+  "",
+  "　　　　　\\c[7](...¡¿?!\\.\\. E-Espera,\\. ¿eso es todo?)"
+ ],
+ "5aeb0946370143ce": [
+  "",
+  "　　　　　\\c[0]¡O-Oye!\\. ¡No me refería a eso!"
+ ],
+ "3bb580490a8948dc": [
+  "",
+  "　　　　　\\c[0]¡Solo quiero encontrar algo que perdí",
+  "　　　　　cuando me arrastraron a todo esto...!"
+ ],
+ "9220ef83e9937408": [
+  "",
+  "　　　　　\\c[18]…\\.…\\.…\\.…\\.…\\.…."
+ ],
+ "7315cfa7518b2a15": [
+  "",
+  "　　　　　\\c[0]Sigues siendo igual de torpe,\\. ¿no?"
+ ],
+ "b60e46a69e936329": [
+  "",
+  "　　　　　\\c[0]………\\.\\.¿Ah?"
+ ],
+ "2d1057c97f2df894": [
+  "",
+  "　　　　　\\c[7](Esa voz...\\.\\. no es la de antes.)"
+ ],
+ "dcd1b8085160f1ba": [
+  "",
+  "　　　　　\\c[0]En toda esta fila de cajas de metal,\\.\\. \\c[18]se esconde algo que observa."
+ ],
+ "ce29d5341f58a45b": [
+  "",
+  "　　　　　\\c[0]Anda.\\. Encuéntralo."
+ ],
+ "6dcf74d0e0bec637": [
+  "",
+  "　　　　　\\c[0]...\\.\\. ¿H-Hola...?"
+ ],
+ "1fef11d3b5adbed8": [
+  "",
+  "　　　　　\\c[0]Esta vez sí que colgó..."
+ ],
+ "44ee429e977c6343": [
+  "",
+  "　　　　　\\c[0]¿Habrá algo escondido ahí dentro?"
+ ],
+ "80a2ff978080c6d0": [
+  "",
+  "\\TA[1]Oí una puerta abrirse a la izquierda."
+ ],
+ "2ce4c1c16b65eed1": [
+  "",
+  "\\TA[1]¿De verdad quieres salir?"
+ ],
+ "df62874be83dc7a8": [
+  "Salir",
+  "Cancelar"
+ ],
+ "9adf0eb87d313026": [
+  "",
+  "　　　　　\\c[0]…………."
+ ],
+ "29a0562ef73c52ca": [
+  "",
+  "　　　　　\\c[7](¿De qué sirve una identificación en un lugar así...?)"
+ ],
+ "5b4e94a652734f5a": [
+  "",
+  "　　　　　\\c[7](Pero las reglas son las reglas.)"
+ ],
+ "b35a11dc0ec948bb": [
+  "",
+  "　　　　　\\c[7](¿Daría menos miedo si Jun estuviera aquí...?)"
+ ],
+ "e1ace4d7ac2dd9c5": [
+  "",
+  "　　　　　\\c[7](Tengo que volver y pedirle perdón...)"
+ ],
+ "3bb053f4181406f3": [
+  "",
+  "　　　　　\\c[7](Parece que algunas páginas están manchadas...)"
+ ],
+ "d0a752a2ab52fc13": [
+  "",
+  "　　　　　\\c[7](Todo va a estar bien,\\. ¿verdad...?)"
+ ],
+ "5aa305ddaf99aca6": [
+  "",
+  "　　　　　\\c[0]Ya no me quedan monedas..."
+ ],
+ "57c66a2f38af3f59": [
+  "",
+  "　　　　　\\c[7](Quizá tuve mucha suerte con esa única moneda...)"
+ ],
+ "cb2d02c143155db5": [
+  "",
+  "　　　　　\\c[7](………………….)"
+ ],
+ "21bcf270b9d32e47": [
+  "",
+  "　　　　　\\c[7](............Prefiero no volver a leerlo.)"
+ ],
+ "ac0e53e409864029": [
+  "",
+  "\\TA[1]¿Comer el \\i[3] \\c[18]caramelo?"
+ ],
+ "9c9982af1ff09b45": [
+  "Comerlo",
+  "No comerlo"
+ ],
+ "296c90d928bdbaa2": [
+  "",
+  "　　　　　\\c[0]...Está dulce."
+ ],
+ "b547f95126d70780": [
+  "",
+  "\\TA[1]La batería se cargó un poco."
+ ],
+ "8197d240ab60e7e8": [
+  "",
+  "\\TA[1]Sabía mejor de lo que esperaba,\\. pero no pasó nada."
+ ],
+ "b1ed9cc9051605da": [
+  "Murciélago"
+ ],
+ "d4d298e1677a6665": [
+  "Slime"
+ ],
+ "ae0101fc5c92e5fe": [
+  "Orco"
+ ],
+ "d20bc3c44f7c1647": [
+  "Minotauro"
+ ],
+ "c47ae15370cfe1ed": [
+  "Ayuda"
+ ],
+ "96196109dccc134a": [
+  "Consulta la guía del juego."
+ ],
+ "7d8cacab1625cab7": [
+  "Moneda siniestra"
+ ],
+ "0bf93a2295db9341": [
+  "Símbolos desconocidos.\nInquieta solo con mirarla."
+ ],
+ "9764384e34d15134": [
+  "Llave de seguridad"
+ ],
+ "7ab9a28604a73cfa": [
+  " \"Solo personal autorizado\".\n...Por ahora, tú eres la excepción."
+ ],
+ "de2b6b8be62c8505": [
+  "Tarjeta de acceso"
+ ],
+ "03e4cbbd2d2ea738": [
+  "Tarjeta de Objetos Perdidos.\nQuizá te ayude a encontrar tu bolso."
+ ],
+ "d2095643f3b0e9ed": [
+  "Cuaderno rojo"
+ ],
+ "5baa1828084a1a5f": [
+  "Un cuaderno rojo de la estación.\nPuedes releerlo cuando quieras."
+ ],
+ "61b6a9812b01491c": [
+  "Lata tibia"
+ ],
+ "6760738719f3cd60": [
+  "Una lata vacía que alguien tiró.\nQuizá puedas lanzarla a algún lado."
+ ],
+ "2e637d8dc063cfdc": [
+  "Nota misteriosa"
+ ],
+ "433c7afdbbb67413": [
+  "Una nota hallada en el cuarto de mantenimiento.\nPuedes releerla cuando quieras."
+ ],
+ "c47593cbc7081ff8": [
+  "Batería portátil"
+ ],
+ "30eab85c1cd633d8": [
+  "Parece la vitalidad que le quedaba a alguien, condensada…….\n\\c[18]Al usarla, recuperas toda la salud."
+ ],
+ "5e38c43b2129ee27": [
+  "Lentes sin graduación"
+ ],
+ "4c2b166791da53fc": [
+  "Los cristales están curvados de forma extraña.\n¿Dónde se guardaban los objetos perdidos en la realidad?"
+ ],
+ "bcb810da280880b4": [
+  "Pluma fuente"
+ ],
+ "64793cd5a108c28a": [
+  "De la punta gotea un líquido rojo.\nHuele inquietantemente a sangre..."
+ ],
+ "d52ba69c4cd30494": [
+  "Engrapadora"
+ ],
+ "0ec42f5dc396ef14": [
+  "Una engrapadora sin una sola grapa.\nCada vez que muerde el vacío da una sensación rara."
+ ],
+ "352dfe946d8e0113": [
+  "Tijeras de oficina"
+ ],
+ "e64fbe4fce138ea5": [
+  "La hoja está cubierta de manchas oscuras.\nSeguro que sirven para cortar algo."
+ ],
+ "a598bb7d368e0b46": [
+  "Línea de Regreso Seguro: \n4040 - 8213 ☎"
+ ],
+ "2b9b54bb1849a775": [
+  "Llave del armario"
+ ],
+ "9e8de41345a28877": [
+  " Una llave etiquetada \"ARMARIO\".\nDebajo dice \"Objetos Perdidos\"."
+ ],
+ "396cd93f3ebeae5c": [
+  "Caramelo"
+ ],
+ "df7e1c14a0478ed5": [
+  "Un caramelo del cajón de una oficina.\n(Sabor fresa)"
+ ],
+ "43a5442ef1ec4dbe": [
+  "Un caramelo del cajón de una oficina.\n(Sabor melón)"
+ ],
+ "4a5d06cf62a90364": [
+  "Un caramelo del cajón de una oficina.\n(Sabor arándano)"
+ ],
+ "d1522ababf89b9e7": [
+  "Bolígrafo común"
+ ],
+ "e7a929fb87203c8d": [
+  "Un bolígrafo de una marca que se ve en todas partes.\nEl diseño es algo tosco."
+ ],
+ "0945e42ac05dbb35": [
+  "Mi bolso"
+ ],
+ "b7642e2508e3414d": [
+  "Revisa lo que hay dentro del bolso.\n\\c[18]No podrás llevarte nada más."
+ ],
+ "76b822cd2391a459": [
+  "Credencial de estudiante"
+ ],
+ "25fde131a5ca43e9": [
+  "Tu credencial de estudiante.\n¿Servirá de algo en este mundo?"
+ ],
+ "03e5031df894a8d0": [
+  "Foto con Jun"
+ ],
+ "fe85aaac267555a8": [
+  " Una foto con Jun.\nSonríe radiante."
+ ],
+ "f90bf08ff06939e4": [
+  "Cuaderno azul"
+ ],
+ "09609ab3dbad3fc2": [
+  "Tu cuaderno de clase.\nYa está repleto de apuntes."
+ ],
+ "fa5ec8ccae4f4f3d": [
+  "Cartera rosa"
+ ],
+ "0550f949661b868f": [
+  "Dentro solo hay algo de dinero para emergencias."
+ ],
+ "2187978fd877aa1b": [
+  "Informe médico"
+ ],
+ "2f09effac1ed7cc7": [
+  "Un breve informe médico.\nPrefiero no volver a leerlo."
+ ],
+ "b69d38987c72b0c5": [
+  "",
+  "\\TA[1]¿Saltar el video de introducción?",
+  "\\c[18]※ Recomendamos verlo en tu primera partida. ※"
+ ],
+ "efd7a7c51865f814": [
+  "No saltar",
+  "Saltar"
+ ],
+ "4c42f341b5b106a2": [
+  "",
+  "　　　　　\\c[0]…… Otra vez,\\. el mismo lugar……."
+ ],
+ "502b50a1d9c81e5f": [
+  "",
+  "　　　　　\\c[0]¿A estas alturas ya debería estar afuera……?\\.\\.",
+  "　　　　　¿Por qué todo \\c[18]vuelve una y otra vez a la estación\\c[0]?"
+ ],
+ "928f4232d07c556f": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>No entiendo nada…….\\.\\. ",
+  "　　　　　Por más que lo pienso, desde aquella luz extraña, ahora……."
+ ],
+ "e3332b8f86f16c6e": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>¿Dón\\.de\\. es\\.toy\\. a\\.ho\\.ra\\. mis\\.mo\\.…\\.…\\.…\\.…\\.?\\|\\|\\|\\|\\^"
+ ],
+ "c65fea8baa8c6b16": [
+  "",
+  "　　　　　\\c[0]\\{¡¿Hiik?!"
+ ],
+ "84d0b8ce03d77214": [
+  "",
+  "　　　　　\\c[0]Ah,\\. qué susto.\\.\\. Era el sonido del celular……."
+ ],
+ "584e11927b9286a8": [
+  "",
+  "　　　　　\\c[7](……¿Eh?\\.\\. ¿Hay señal?)"
+ ],
+ "b848046ff285e170": [
+  "",
+  "　　　　　\\c[0]Eh……\\.\\. ¿\\c[18]6 mensajes\\c[0]……?"
+ ],
+ "37170affc1bd2577": [
+  "",
+  "　　　　　　　　\\c[15]\\{ [Remitente : ���] "
+ ],
+ "9384611f15589ae2": [
+  "",
+  "　　　　　　　　\\c[15]\\[　\\{\\{bien　\\}ve　ni\\}\\}　　\\{da　\\{\\{Rio　]"
+ ],
+ "c4d05311c76c0626": [
+  "",
+  "　　　　　　　　\\c[15][　\\{\\{al\\}　\\{\\{fin　nos\\}\\}\\}　　\\{ve　\\{\\{mos\\}　ya\\}　]"
+ ],
+ "edcddef218c80b39": [
+  "",
+  "　　　　　　　　\\c[15][　\\{es　\\{\\{ta\\}　vez\\}\\}　\\{sí　　\\{\\{que　\\}sí\\}\\}　]"
+ ],
+ "529a9eaf38a35565": [
+  "",
+  "　　　　　　　　\\c[15][　\\{aún　\\{　se　pue\\}\\}　\\{de　　\\{re　\\}\\}ver\\{\\　]"
+ ],
+ "6a1344bd13e3a588": [
+  "",
+  "　　　　　　　　\\c[15][　\\{\\{ven\\}\\{　\\{a\\}　\\}\\}bus　\\{\\{carme　]"
+ ],
+ "a043a04b16390ca0": [
+  "",
+  "　　　　　　　　\\c[15][　\\{\\{al\\}　\\{\\{lu　gar\\}\\}\\}　　\\{don　\\{\\{de\\}　to\\}　　\\{do　\\}em\\{　pezó\\}　]"
+ ],
+ "8cf52044b7740812": [
+  "",
+  "　　　　　\\c[0]¿Qué es esto?\\.\\. Puro texto sin sentido……."
+ ],
+ "d8efed4a3b51f273": [
+  "",
+  "　　　　　\\c[0]Y-Y,\\. el remitente es desconocido…….\\.\\. ",
+  "　　　　　¿Qué se supone que haga?\\. ¿Qué es esto?"
+ ],
+ "b777746058438e53": [
+  "",
+  "　　　　　\\c[0]D-De momento,\\. ¿debería revisar por aquí?\\.\\.",
+  "　　　　　Aunque ni siquiera sé qué se supone que debo hacer……."
+ ],
+ "34a8faaa59a48bc6": [
+  "",
+  "　　　　　\\c[0]No me digas que,\\.\\. tengo que revisar esto con más cuidado……."
+ ],
+ "7ab5418cf0a34683": [
+  "",
+  "　　　　　\\c[0]……\\.\\. ¿Podré hacerlo…….?"
+ ],
+ "c0260f2d79c6ed6e": [
+  "",
+  "　　　　　\\c[0]Llevo un rato dándole vueltas……. ",
+  "　　　　　¿Quién es \\i[2]\\c[18]la persona que manda los mensajes\\c[0]?"
+ ],
+ "46a097561884d340": [
+  "",
+  "　　　　　\\c[0]Con la señal tan inestable,\\.\\.",
+  "　　　　　el momento es demasiado perfecto, como si supiera en qué situación estoy."
+ ],
+ "0c904ad07cd84972": [
+  "",
+  "　　　　　\\c[0]Como si supiera de antemano que yo iba a entrar aquí……."
+ ],
+ "57d9ac1f216ce086": [
+  "",
+  "　　　　　\\c[0]¿Y si,\\.\\. para empezar, ni siquiera es una persona……?"
+ ],
+ "eab4ca389d6389ac": [
+  "",
+  "　　　　　\\c[0]Solo abres la boca sin decir nada.\\! Bueno,\\. puede pasar."
+ ],
+ "de5fc462a751bb1d": [
+  "",
+  "　　　　　\\c[0]No sé cómo terminaste aquí, pero eso a mí no me importa."
+ ],
+ "949c9ebd45356aab": [
+  "",
+  "　　　　　\\c[0]Jugar con una humana hasta que se muera también será divertido.\\.\\. ¿No?"
+ ],
+ "c5691847bacc759b": [
+  "",
+  "　　　　　\\c[0]¿Y esto qué?\\.\\. Aparecen en montón y se te echan encima."
+ ],
+ "004bfa4107fe7292": [
+  "",
+  "　　　　　\\c[0]Deja de chillar sin saber cuál es tu lugar,\\.\\. cerdo asqueroso……."
+ ],
+ "1e14638ab913bd13": [
+  "",
+  "　　　　　\\c[7](¿Qué fue eso……?\\. Salió alguien de golpe y,\\.\\. lo que hizo recién…….)"
+ ],
+ "eb51faa725fe7c10": [
+  "",
+  "　　　　　\\c[7](Lo……\\.\\. ¿mató……?)"
+ ],
+ "f5a71a3a97d29836": [
+  "",
+  "　　　　　\\c[0]¿Y esto ahora qué?"
+ ],
+ "38871c4f370ceab6": [
+  "",
+  "　　　　　\\c[0]¿Una humana……?\\.\\. Tú no tendrías por qué estar aquí."
+ ],
+ "69676c5f3e431494": [
+  "",
+  "　　　　　\\c[0]Jaja……\\.\\. ¿Tú\\. siquiera sabes dónde estás?"
+ ],
+ "3c1f6a51af5e5218": [
+  "",
+  "　　　　　\\c[7](Estoy perdida,\\.\\. del miedo ni me sale la voz…….)"
+ ],
+ "2a8f209edefd7823": [
+  "",
+  "　　　　　\\c[7](Y sobre todo esa mirada,\\.\\. ¡eso no es humano……!)"
+ ],
+ "bbda648bbadeefa5": [
+  "",
+  "　　　　　\\c[7](¿Qué hago─\\.\\.\\^)"
+ ],
+ "0f0f886c62eacacd": [
+  "",
+  "　　　　　\\c[0]Solo abres la boca sin decir nada.\\.\\. Bueno,\\. puede pasar."
+ ],
+ "a9897444b4bd9418": [
+  "",
+  "　　　　　\\c[0]No sé cómo terminaste aquí…….\\.\\."
+ ],
+ "d9bdaea490a4ad2d": [
+  "",
+  "　　　　　\\c[18]Jugar con una humana hasta que se muera también será divertido.\\|\\|\\.\\.\\^"
+ ],
+ "f70ddf3d04d3c1c6": [
+  "",
+  "　　　　　\\c[0]Hic………."
+ ],
+ "b84136451a97fca6": [
+  "",
+  "　　　　　\\c[0]あああああああああああああああああああああああああああああああ",
+  "　　　　　ああああああああああああああああああああ"
+ ],
+ "7bca1278f47552ed": [
+  "",
+  "　　　　　\\c[7](¿Qué está pasando...?\\.\\. No hay señal.)"
+ ],
+ "695a944f12baaa96": [
+  "",
+  "　　　　　\\c[7](¿Será porque estoy dentro del tren?\\.\\.",
+  "　　　　　Pero esto nunca había pasado...)"
+ ],
+ "62b62b23bda141cb": [
+  "",
+  "　　　　　\\c[0]……Quizá primero debería salir."
+ ],
+ "5fdfe6bbe5c55059": [
+  "",
+  "\\TA[1]Aquí es donde estaba sentada."
+ ],
+ "de4ec4a0111a39d6": [
+  "",
+  "\\TA[1]Aquí es donde estaba sentada.\\.\\.",
+  "Tal vez debería revisar debajo."
+ ],
+ "203e7cbc5527e424": [
+  "",
+  "\\TA[1]Mi mano no encuentra nada..."
+ ],
+ "ab5bde1b200f165f": [
+  "",
+  "\\TA[1]Algo que rocé con la mano rueda despacio hacia adelante."
+ ],
+ "69123c08f8f9a84e": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Pluma fuente \\c[0]obtenida."
+ ],
+ "12d67b8ecc5d9a14": [
+  "",
+  "　　　　　\\c[0]...¿Eh?\\.\\. ¿Esto estuvo bajo el asiento todo este tiempo?"
+ ],
+ "dcbd429d001672d1": [
+  "",
+  "　　　　　\\c[0]Hay algo que no cuadra entre esto y la cámara..."
+ ],
+ "c93218a26ae7a8b9": [
+  "",
+  "　　　　　\\c[7]\\Shake<0.5>(¡¿Mi bolso también desapareció?!\\.\\. No puede ser...)"
+ ],
+ "d8d3290bb0bb8932": [
+  "",
+  "　　　　　\\c[7](Y parece que alguien arañó el asiento...)"
+ ],
+ "9fbf279ef86de581": [
+  "",
+  "　　　　　\\c[0]………."
+ ],
+ "4b2df10c936ea257": [
+  "",
+  "　　　　　\\c[0]Está cerrada con llave..."
+ ],
+ "5486926f18ca3a93": [
+  "",
+  "　　　　　\\c[7](Quizá sea más rápido buscar una puerta abierta...)"
+ ],
+ "8f99224255766bc3": [
+  "",
+  "　　　　　\\c[0]Es la única puerta abierta..."
+ ],
+ "9a8028c4876cada0": [
+  "",
+  "　　　　　\\c[0]Mejor no me alejo demasiado..."
+ ],
+ "f1208c2ae3e72804": [
+  "",
+  "　　　　　\\c[0]¿Qué es esto...?"
+ ],
+ "9ff98111db000173": [
+  "",
+  "\\TA[1]Hay algo en el camino de adelante que no me da buena espina..."
+ ],
+ "34998bd7c0370fc6": [
+  "Seguir",
+  "Volver"
+ ],
+ "e1b48ce5c573df13": [
+  "",
+  "\\TA[1]...?\\.\\.\\. ",
+  "Por donde vine ahora hay un muro."
+ ],
+ "1c4bc8d111c21542": [
+  "",
+  "　　　　　\\c[7](…\\.…\\.…\\.…\\.….)"
+ ],
+ "7873902f374a5849": [
+  "",
+  "　　　　　\\c[0]Las manchas de sangre ya no están..."
+ ],
+ "4f369bc1f385aa7b": [
+  "",
+  "　　　　　\\c[7](Y ese lugar,\\. ¿qué era en realidad...?)"
+ ],
+ "76fae050d7fdae2d": [
+  "",
+  "　　　　　\\c[0]……?"
+ ],
+ "9cf6f2cebb58d85f": [
+  "",
+  "　　　　　\\c[0]¿Qué...\\.\\. qué acabo de hacer?"
+ ],
+ "fb851450610a6a3d": [
+  "",
+  "　　　　　\\c[0]Mi celular empezó a brillar de la nada,\\.\\. y después..."
+ ],
+ "72ba9a620770727f": [
+  "",
+  "　　　　　\\c[7](¿Esta es mi estación...?)"
+ ],
+ "2e550e40879ec736": [
+  "",
+  "　　　　　\\c[7](Hay demasiado silencio...\\.\\. ",
+  "　　　　　Ya sé que es de madrugada,\\. pero no debería ser tanto.)"
+ ],
+ "ceb951ab1e59206c": [
+  "",
+  "　　　　　………."
+ ],
+ "5e2dbc44161543bd": [
+  "",
+  "　　　　　Respira hondo,\\. respira hondo...\\.\\.",
+  "　　　　　Perdí el bolso,\\. no hay señal,\\. y este lugar da mala espina."
+ ],
+ "8678278f815f7333": [
+  "",
+  "　　　　　Pero..."
+ ],
+ "d9118fc979eb223d": [
+  "",
+  "　　　　　Lo único que tengo que hacer es llegar a casa,\\. ¿no?\\.\\.\\. ",
+  "　　　　　Sí.\\. Solo eso..."
+ ],
+ "ceeef298eafb5374": [
+  "",
+  "　　　　　¿P,\\. Por dónde era la salida...?\\.\\. Jajaja..."
+ ],
+ "44a661e9f3798a7c": [
+  "",
+  "\\TA[1]La máquina expendedora está extrañamente surtida.\\.\\. ",
+  "Y aun así,\\. por alguna razón,\\. no parece funcionar..."
+ ],
+ "24e3e7e74490c2b6": [
+  "",
+  "　　　　　Hay señal...\\.\\. Es débil,\\. pero la hay."
+ ],
+ "8e6e08f18a0e3c86": [
+  "",
+  "　　　　　Aunque no parece servir de mucho..."
+ ],
+ "da07edaab4d7f0ac": [
+  "",
+  "\\TA[1]Desde aquí no alcanzo a verlo bien."
+ ],
+ "510f4b308ee1bed0": [
+  "",
+  "\\TA[1]\\i[6]\\c[18] La señal parece un poco más fuerte en esta zona."
+ ],
+ "2a37bf061a982664": [
+  "",
+  "　　　　　\\c[0]Esto lleva a otro pasillo."
+ ],
+ "ce3abf71cbde4b85": [
+  "",
+  "\\TA[1]No parece haber nada fuera de lo común."
+ ],
+ "3fdf0dccb3ceb456": [
+  "",
+  "　　　　　\\c[7](No creo que mirar el mapa del metro ",
+  "　　　　　me sirva de algo ahora.)"
+ ],
+ "51d8e016639621f9": [
+  "",
+  "　　　　　\\c[0]La salida no es por aquí."
+ ],
+ "821754e6544568fa": [
+  "",
+  "　　　　　\\c[7](Es un pato...)"
+ ],
+ "9791214ae7f5227a": [
+  "",
+  "　　　　　\\c[7](...Eso no importa ahora.)"
+ ],
+ "ae48660241c62280": [
+  "",
+  "　　　　　\\c[7](Por alguna razón...\\.\\. me tranquiliza.)"
+ ],
+ "41ad4e5c9d76d79e": [
+  "",
+  "\\TA[1]¿Por qué nadie la ha tirado?\\.\\.",
+  "Una lata tirada, con quién sabe qué dentro."
+ ],
+ "83f47cf9b6635a87": [
+  "",
+  "\\TA[1]Más allá de los conos,\\. ",
+  "una escalera se hunde en la oscuridad."
+ ],
+ "8fcd70c72943f498": [
+  "",
+  "\\TA[1]Aquí hay una mochila abandonada."
+ ],
+ "b96cc90351060ac1": [
+  "",
+  "\\TA[1]Al hurgar dentro,\\. ",
+  "mis dedos rozan algo frío y metálico."
+ ],
+ "19b1853e10cd817e": [
+  "",
+  "\\TA[1]\\i[2] \\c[18]Llave de seguridad\\c[0] obtenida."
+ ],
+ "60a451231183c268": [
+  "",
+  "　　　　　\\c[7](¿Eh...?\\.\\. ¿Por qué un estudiante llevaría esto encima?)"
+ ],
+ "b27d2c6e3f8841ed": [
+  "",
+  "　　　　　\\c[0]Mmm...\\. No veo nada más que pueda servir."
+ ],
+ "a70162a88971a8d2": [
+  "",
+  "　　　　　\\c[0]Bueno...\\.\\. supongo que igual de raro es",
+  "　　　　　hurgar en la mochila de un desconocido."
+ ],
+ "68ef1c6cea5ed2ad": [
+  "",
+  "　　　　　\\c[7](…………¿ah?)"
+ ],
+ "daa940a59932f3d2": [
+  "",
+  "　　　　　\\c[7](¿Acabo de ver algo?)"
+ ],
+ "141ef6982439d28f": [
+  "",
+  "　　　　　\\c[0]¿P,\\. Por qué hay tantas de estas...?"
+ ],
+ "646da73dd3b014e1": [
+  "",
+  "　　　　　\\c[0]...Quizá debería volver más tarde."
+ ],
+ "0d77de6cdb4eaf82": [
+  "",
+  "　　　　　\\c[0]………?"
+ ],
+ "a749fc4c6ee8e49e": [
+  "",
+  "　　　　　\\c[0]...Puedo empujar esto."
+ ],
+ "e74e9a335954fca3": [
+  "",
+  "\\TA[1]Sobre el asiento descansa una carta extraña."
+ ],
+ "bc3a54b549649687": [
+  "",
+  "\\TA[1]\\c[18]\"\\{Hay\\} de\\}\\}masia\\{dos\\}\\} ojos\\{\\{ aquí\"\\c[0]"
+ ],
+ "0326569975512786": [
+  "",
+  "\\TA[1]Curiosamente,\\. el resto de la hoja está en blanco."
+ ],
+ "979d02a31109e8b2": [
+  "",
+  "　　　　　\\c[7](¿Ojos...?)"
+ ],
+ "e0b2d8cdc233c8ba": [
+  "",
+  "　　　　　\\c[7](Quien haya escrito esto...\\.\\. ojalá esté bien.)"
+ ],
+ "65536b29c9d056ff": [
+  "",
+  "\\TA[1]…………."
+ ],
+ "0ef3ca3176fb0d76": [
+  "",
+  "\\TA[1]Parece imposible cruzar desde aquí."
+ ],
+ "637b3ba7dddaf9ed": [
+  "",
+  "　　　　　\\c[0]Ahora que lo pienso...\\.\\.",
+  "　　　　　Aunque la zona estuviera en obras, ",
+  "　　　　　el piso no se habría hundido así."
+ ],
+ "4842c828321b21dc": [
+  "",
+  "　　　　　\\c[0]¿Por qué no me di cuenta antes...?"
+ ],
+ "9b2f64701368ee1e": [
+  "",
+  "\\TA[1]Abajo no se ve más que oscuridad."
+ ],
+ "33202ff70cdf3500": [
+  "Saltar",
+  "Cancelar"
+ ],
+ "d46be23a58c2a032": [
+  "",
+  "\\TA[1]Un cartel dice: \\c[18]\"Precaución: riesgo de caída.\"\\c[0]"
+ ],
+ "e473df587dea764a": [
+  "",
+  "\\TA[1]Unos conos bloquean el paso.\\.\\. ",
+  "Más allá, en la oscuridad, se adivinan incontables más."
+ ],
+ "ace463446a07ab76": [
+  "",
+  "\\TA[1]Está cerrado con llave."
+ ],
+ "f8691b0b78170f00": [
+  "",
+  "\\TA[1]Está cerrado.\\.\\. Ni siquiera parece tener cerradura."
+ ],
+ "3e1f2dc003fd6ef1": [
+  "",
+  "　　　　　\\c[0]………………."
+ ],
+ "782fe3d8e9bf96a9": [
+  "",
+  "　　　　　\\c[0]Puede que, después de todo,\\.\\. no haga falta."
+ ],
+ "5a1596fdb3ba8e0f": [
+  "",
+  "\\TA[1]\\c[0]Un teléfono público sin auricular."
+ ],
+ "6678a30d4743c949": [
+  "",
+  "\\TA[1]Un teléfono público sin auricular."
+ ],
+ "09915f61af5b3977": [
+  "",
+  "\\TA[1]El aviso dice: \\c[18]\"Disculpe las molestias. ",
+  "Por favor, use el otro teléfono.\""
+ ],
+ "59ba3b09e0dc60b4": [
+  "",
+  "　　　　　\\c[0]... No tendría ninguna oportunidad."
+ ],
+ "b364edf3f32d4646": [
+  "",
+  "\\TA[1]Este teléfono público se ve relativamente limpio."
+ ],
+ "d1aefca3b7d413a5": [
+  "",
+  "\\TA[1]Este teléfono público se ve relativamente limpio.\\.\\.",
+  "El auricular está en su sitio, y el \\i[3] \\c[18]cable\\c[0] está intacto."
+ ],
+ "2ef23d61317334ab": [
+  "",
+  "　　　　　\\c[0]Necesito una moneda para usarlo...\\.\\.",
+  "　　　　　Pero todo mi dinero estaba en el bolso."
+ ],
+ "b3450539fbe48b2b": [
+  "",
+  "　　　　　¿Y si encuentro una \\c[18]moneda\\c[0] por aquí cerca...?"
+ ],
+ "6705ed2b02746c00": [
+  "",
+  "　　　　　\\c[18]Necesito una moneda para usarlo.\\.\\.\\c[0]",
+  "　　　　　Pero...\\.\\. ¿a quién se supone que voy a llamar...?"
+ ],
+ "c4f4e2d94b46b5ee": [
+  "",
+  "\\TA[1]Este teléfono público se ve relativamente limpio.\\.\\.",
+  "El auricular está en su sitio,\\. \\i[3] \\c[18]pero el cable está cortado."
+ ],
+ "cfe74a7e71f03e2e": [
+  "",
+  "　　　　　\\c[0]……Esto lleva a otro pasillo."
+ ],
+ "7b1bafa92d6ff1ce": [
+  "",
+  "　　　　　\\c[0]………\\.\\.?"
+ ],
+ "d1fd620a3a5a9b54": [
+  "",
+  "　　　　　Es el mismo lugar.\\.\\. Otra vez..."
+ ],
+ "b6887d70b88c8082": [
+  "",
+  "　　　　　\\c[0]A estas alturas ya debería estar afuera,\\. ¿no?\\.\\. ",
+  "　　　　　¿Por qué termino en la estación una y otra vez?"
+ ],
+ "cef42527358f2ef7": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>No entiendo nada…….\\.\\. Desde aquella luz extraña ",
+  "　　　　　de mi celular,\\. nada tiene sentido...."
+ ],
+ "8fdd6336933a04e9": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>¿Dónde...\\.\\. se supone que estoy...?\\.\\.\\|\\|\\|\\|\\^"
+ ],
+ "df2eaf856103fb89": [
+  "",
+  "　　　　　\\c[0]\\{¡¿Iiik?!"
+ ],
+ "f536c19eb40c07a2": [
+  "",
+  "　　　　　\\c[0]A-Ay,\\.\\. qué susto...\\. Es solo mi celular..."
+ ],
+ "bb564ebe985dbbf7": [
+  "",
+  "　　　　　\\c[7](……¿Eh?\\.\\. ¿Tengo señal?)"
+ ],
+ "324d54f0cedb4fed": [
+  "",
+  "　　　　　\\c[0]E-Espera...\\.\\. ¿\\c[18]Seis mensajes\\c[0]...?"
+ ],
+ "81d50bdfcdd74ecb": [
+  "",
+  "　　　　　　　　\\c[15]\\{ \"Remitente : ���\" "
+ ],
+ "c170e656bc8092b6": [
+  "",
+  "　　　　　　　　\\c[15]\\\"　\\{\\{Bien　\\}ve　nida\\}\\}　　\\{Ri　\\{\\{o　\""
+ ],
+ "0035720959c4d963": [
+  "",
+  "　　　　　　　　\\c[15]\"\\{\\{Por\\}　\\{\\{fin　nos\\}\\}\\}　\\{ve　\\{\\{mo\\}s\\}\""
+ ],
+ "2ea57b7833c764ac": [
+  "",
+  "　　　　　　　　\\c[15]\"\\{Es　\\{\\{t\\}　a\\}\\}　\\{v　\\{\\{e\\}z\\}\\}\""
+ ],
+ "bb2f7d622aa6da2e": [
+  "",
+  "　　　　　　　　\\c[15]\" \\{Pue do\\{　re　cu\\}\\}　\\{pe　\\{rar　\\}\\}lo\\{\\\""
+ ],
+ "db1103a9efba0b0c": [
+  "",
+  "　　　　　　　　\\c[15]\"\\{\\{Ven\\}\\{　\\{a\\}　\\}\\}bus　\\{\\{carme　\""
+ ],
+ "b7c59fab868cfa7c": [
+  "",
+  "　　　　　　　　\\c[15]\"\\{\\{Don\\}　\\{\\{de　to\\}\\}\\}　\\{do　\\{\\{em\\}　pe\\}　\\{zó\""
+ ],
+ "fb4d301a012b2897": [
+  "",
+  "　　　　　\\c[0]¿Qué es esto...?\\.\\.",
+  "　　　　　Está lleno de texto que ni siquiera puedo leer..."
+ ],
+ "f1c250d580a0273e": [
+  "",
+  "　　　　　\\c[0]Y-Y el remitente es desconocido...\\.\\.",
+  "　　　　　¿Qué se supone que haga?\\. ¿Qué es esto?"
+ ],
+ "949c4041947650be": [
+  "",
+  "　　　　　\\c[0]¿D-Debería investigar primero este lugar?\\.\\",
+  "　　　　　Pero, ¿qué se supone que tengo que hacer?"
+ ],
+ "ef4e158645374014": [
+  "",
+  "　　　　　\\c[0]Quizá deba revisar con más detenimiento..."
+ ],
+ "81036198a393498e": [
+  "",
+  "　　　　　\\c[0]...\\. ...\\.¿Pero podré...?"
+ ],
+ "66048107dd3fa5fe": [
+  "",
+  "　　　　　\\c[0]No dejo de darle vueltas...\\.\\.",
+  "　　　　　\\i[2]\\c[18] ¿Quién manda estos mensajes?"
+ ],
+ "49889e3ffc5c5080": [
+  "",
+  "　　　　　\\c[0]¿Cómo llegan justo en el momento preciso",
+  "　　　　　en un lugar donde no hay señal?"
+ ],
+ "fbf266e5844528c6": [
+  "",
+  "　　　　　\\c[0]Es casi como si...\\.\\. supieran que iba a terminar aquí."
+ ],
+ "c68911e6a817a459": [
+  "",
+  "　　　　　\\c[0]¿Y si estos mensajes ni siquiera los envía",
+  "　　　　　una persona, para empezar...?"
+ ],
+ "b9b2bbede32519ff": [
+  "",
+  "　　　　　\\c[0]... No, eso sería ridículo.\\.\\.",
+  "　　　　　Pienso así porque no me lo puedo creer."
+ ],
+ "af5777f5dac0c003": [
+  "",
+  "\\TA[1]Las puertas del ascensor están bien cerradas."
+ ],
+ "91e12970ba7524b4": [
+  "",
+  "\\TA[1]Un cuaderno rojo."
+ ],
+ "46cc615d3c00c297": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Un cuaderno rojo.\\.\\.\\c[0] Parece que lo han abierto incontables veces."
+ ],
+ "7252968072fa0dc3": [
+  "Leer",
+  "Cancelar"
+ ],
+ "0178daeeb3d852ab": [
+  "",
+  "　　　　　\\c[0]\"Lo que este lugar exige\"...\\.\\. ",
+  "　　　　　No tengo la menor idea de qué significa eso..."
+ ],
+ "3cd03e32d229b561": [
+  "",
+  "　　　　　\\c[0]Ni siquiera sé qué se supone que es ",
+  "　　　　　salirse del sentido común...\\.\\."
+ ],
+ "cc1a99bba9a5aa28": [
+  "",
+  "　　　　　\\c[0]Pero si se supone que algo debe sentirse mal,\\. entonces..."
+ ],
+ "2d7a254b33c5771f": [
+  "",
+  "　　　　　\\c[0]Tal vez debería revisar el pasillo otra vez.\\.\\.",
+  "　　　　　Más concretamente,\\. el camino que lleva a la salida..."
+ ],
+ "c397a4f9ff463037": [
+  "",
+  "　　　　　\\c[0]Si lo miro de nuevo,\\. quizá note algo fuera de lugar."
+ ],
+ "1657d3df19476767": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Cuaderno rojo\\c[0] obtenido.\\!",
+  "\\}\\c[7](Puedes volver a leerlo desde el inventario)"
+ ],
+ "40cc36a0a616a041": [
+  "",
+  "\\TA[1]Una lata de refresco a medio terminar.\\.\\.",
+  "Todavía está fría al tacto."
+ ],
+ "8b400100d1b99549": [
+  "",
+  "\\TA[1]Una lata de refresco a medio terminar.\\.\\. Todavía está fría al tacto."
+ ],
+ "c70b4fed9eccff04": [
+  "Tomarla",
+  "Cancelar"
+ ],
+ "1932af3de6ab65d4": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Lata tibia\\c[0] obtenida."
+ ],
+ "01997b6ea7be979f": [
+  "",
+  "\\TA[1]Un maletín que parece de un oficinista."
+ ],
+ "34c00ac1c81fad5b": [
+  "",
+  "\\TA[1]Un maletín que parece de un oficinista.\\.\\. ",
+  " Está apoyado con cuidado,\\. pero su dueño no aparece por ningún lado."
+ ],
+ "8139581c6728d42d": [
+  "",
+  "\\TA[1]Al hurgar dentro,\\.",
+  "mis dedos rozan algo frío y metálico."
+ ],
+ "8b26e69cbb645cb3": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Tijeras de oficina\\c[0] obtenidas."
+ ],
+ "7c8d571d9348ad16": [
+  "",
+  "　　　　　¿Tengo que \\c[18]cortar algo?\\c[0]\\.\\. Es lo único que veo aquí dentro..."
+ ],
+ "94650d19377e62e1": [
+  "",
+  "\\TA[1]Un periódico doblado."
+ ],
+ "84d00b22cd87d0b2": [
+  "",
+  "\\TA[1]Un periódico doblado.\\.",
+  "El titular y las fechas están demasiado borrosos para leerse."
+ ],
+ "aa59dc53063bb4a4": [
+  "",
+  "\\TA[1]\"\\c[18]Desapariciones en todo el país\\c[0] dejan perplejos a los investigadores\""
+ ],
+ "ab5d8d180509eed4": [
+  "",
+  "\\TA[1]\"Los casos de las llamadas \\c[18]'desapariciones por evaporación'\\c[0] no dejan de crecer.\\.\\.",
+  "Hay gente que se esfuma sin dejar rastro,\\. sin importar edad,\\. oficio\\. ni lugar.\""
+ ],
+ "ed3f83d1e58a38f4": [
+  "",
+  "\\TA[1]\"Las autoridades señalaron que estos casos tenían \\c[18]███\\c[0] en común...\""
+ ],
+ "5767c5d309a0fd70": [
+  "",
+  "\\TA[1]\"Los testigos relatan cosas imposibles,\\. gente que se desvaneció",
+  "en cuanto apartaron la vista, o que se disolvió en el aire.\""
+ ],
+ "2cdaa20557a297d3": [
+  "",
+  "\\TA[1]\"En internet vinculan los casos a un supuesto",
+  "fenómeno de traslado que implica \\c[18]███\\c[0], aunque los expertos lo desmienten.\""
+ ],
+ "c759032a8ab428fc": [
+  "",
+  "\\TA[1]\"Crece el temor de que las leyes físicas",
+  "que rigen la realidad se estén quebrando...\""
+ ],
+ "84ab763e281995d3": [
+  "",
+  "　　　　　\\c[7](No debí haber leído eso...)"
+ ],
+ "80d3eb88c82d46b8": [
+  "",
+  "\\TA[1]¿Volver a leer el periódico?"
+ ],
+ "a1f459a1a3467e6f": [
+  "",
+  "　　　　　\\c[7](Dudo que el basurero sirva de algo...)"
+ ],
+ "22ecab211530e923": [
+  "",
+  "\\TA[1]A diferencia de las demás, todas las bandejas de bebidas están vacías."
+ ],
+ "253a860a6008c48e": [
+  "",
+  "\\TA[1]Desde aquí no alcanzo a verlo bien."
+ ],
+ "20181e2e8d7642ab": [
+  "",
+  "\\TA[1]No parece haber nada fuera de lo común."
+ ],
+ "a840e57a9825dcd9": [
+  "",
+  "\\TA[1]En la pared quedó lo que parece el dibujo de una puerta.\\.\\.",
+  "Curiosamente, le falta el picaporte."
+ ],
+ "0b99dd5e464d74f6": [
+  "",
+  "\\TA[1]Unos conos bloquean el paso.\\.\\.",
+  "Apenas se distinguen, pero más allá de la oscuridad se alinean incontables."
+ ],
+ "6c429410e56b4ae1": [
+  "",
+  "\\TA[1]En la pared quedó lo que parece el dibujo de una puerta.\\.\\.",
+  "\\i[3] \\c[18]Solo en esta hay un picaporte dibujado."
+ ],
+ "edc91d1d67ae6492": [
+  "",
+  "　　　　　\\c[0]……¿eh?"
+ ],
+ "a5621086625c9f01": [
+  "",
+  "　　　　　\\c[0]Esta parte\\.\\. \\c[18]\\i[3] tiene una ranura para encajar algo\\c[0]……."
+ ],
+ "cbde54daf1b7acd5": [
+  "",
+  "\\TA[1]Hay una nota pequeña."
+ ],
+ "bcad687bd7c87714": [
+  "Leer",
+  "Cancelar"
+ ],
+ "95057eb716d5ffff": [
+  "",
+  "\\TA[1]\\c[18]「 La estética de la simetría 」 \\c[0]",
+  "……esa frase se repite una y otra vez, sin fin."
+ ],
+ "46abb53ddea3ac7b": [
+  "",
+  "　　　　　\\c[7](…………?)"
+ ],
+ "39d2d6b7fdcda9dc": [
+  "",
+  "　　　　　\\c[7](……¿Se referirá a la estructura de este lugar?)"
+ ],
+ "dc8d2dda74b22327": [
+  "",
+  "　　　　　\\c[0]Esto no está bien..."
+ ],
+ "621e5dc57d80f553": [
+  "",
+  "　　　　　\\c[0]¡Estoy segura de que ya pasé por aquí...!"
+ ],
+ "4ea1104a59cb48bc": [
+  "",
+  "　　　　　\\c[0]Al menos logré salir al pasillo...\\.\\.",
+  "　　　　　Pero mi celular sigue sin funcionar. "
+ ],
+ "a3a3c428b223a173": [
+  "",
+  "　　　　　\\c[0]¿Qué está pasando aquí...?"
+ ],
+ "3a0339275c549078": [
+  "",
+  "　　　　　\\c[0]...Mejor vuelvo."
+ ],
+ "ba072f61e99b0b43": [
+  "",
+  "　　　　　\\c[0]¡¿Iiik?!"
+ ],
+ "bd14b427713c5193": [
+  "",
+  "　　　　　\\c[0]¡¿Q-Qué es eso...?!\\.\\.",
+  "　　　　　¿Por qué hay ojos por toda la pantalla...?"
+ ],
+ "c5a8e08959543174": [
+  "",
+  "\\TA[1]\\c[15]\"[REVISADO] Normas de inspección de la estación\\.\\.",
+  "Este aviso aplica a la 'PROTEÍNA NO ESTÁNDAR' retenida en la estación.\""
+ ],
+ "e04e50692094d01f": [
+  "",
+  "\\TA[1]\\c[15]\"Siga las instrucciones que se detallan a continuación.\""
+ ],
+ "a759af7088748899": [
+  "",
+  "\\TA[1]\\c[15]\"❶ Conserve una sola pertenencia personal y ",
+  "deseche toda masa innecesaria.\""
+ ],
+ "a1bd2ed8fb3880cd": [
+  "",
+  "\\TA[1]\\c[15]❷ Registre el ███ que lo define en el documento provisto.",
+  "Un ███ sin rellenar lo dejará aquí de forma permanente."
+ ],
+ "3da0ba259b21eb10": [
+  "",
+  "\\TA[1]\\c[15]\"❸ El incumplimiento lo clasificará como ███.\\.\\.",
+  "\"Se procederá de inmediato a su trituración y borrado.\""
+ ],
+ "c0f73ebb2703114e": [
+  "",
+  "　　　　　\\c[7](¿Proteína no estándar...?\\.\\.",
+  "　　　　　¿Se supone que esa soy yo?)"
+ ],
+ "dacab7ed32513749": [
+  "",
+  "　　　　　\\c[0](Y más importante,\\. ¿qué clase de instrucciones son estas?\\.\\.",
+  "　　　　　¡Esto es absurdo!)"
+ ],
+ "cb841c457f0abf4d": [
+  "",
+  "　　　　　\\c[0]…………¡Mi bolso!"
+ ],
+ "5c3165a644bb55e5": [
+  "",
+  "　　　　　\\c[0]¿Dónde puede haber quedado?\\.\\.",
+  "　　　　　¿Se perdió cuando quedé atrapada en este lugar?"
+ ],
+ "ad44fe9c43384a4a": [
+  "",
+  "　　　　　Estoy segura de que había una oficina de Objetos Perdidos ",
+  "　　　　　en algún lugar de la estación...\\.\\."
+ ],
+ "d0d767b532c8ae5a": [
+  "",
+  "　　　　　Tengo que encontrar la forma de llegar ahí."
+ ],
+ "c556e689eec59885": [
+  "",
+  "　　　　　\\c[7](Y ese mensaje se va a quedar en mi celular.\\.\\. ",
+  "　　　　　Puaj,\\. no me gusta nada...)"
+ ],
+ "3d9e97e8e91f08a5": [
+  "",
+  "　　　　　\\c[7](Por más que me arme de valor...\\.\\.",
+  "　　　　　no soy capaz de quedarme mirando eso mucho tiempo.)"
+ ],
+ "6a0de6516e9045ef": [
+  "",
+  "　　　　　\\c[7](¿No pasé ya por delante de este panel...?)"
+ ],
+ "a01f4bdf9d8ad7cf": [
+  "",
+  "\\TA[1]A diferencia del lado opuesto,\\. ",
+  "este pasillo está envuelto en oscuridad."
+ ],
+ "ad482a3083cf2e10": [
+  "Seguir",
+  "Cancelar"
+ ],
+ "69c94201981cd37b": [
+  "",
+  "　　　　　\\c[0]¡Ngh...!"
+ ],
+ "6b52e13efde8c831": [
+  "",
+  "　　　　　\\c[0]¡Algo acaba de empujarme...\\!",
+  "　　　　　Espera,\\.\\. ¡las mangas están rasgadas!"
+ ],
+ "235076388477b0c3": [
+  "",
+  "　　　　　\\c[0]¿Hay algo ahí...?"
+ ],
+ "552e59295b4707f2": [
+  "",
+  "\\TA[1]Más allá de este punto, algo no está bien."
+ ],
+ "4f4f01bd7c1c5f38": [
+  "",
+  "　　　　　\\c[0]……….\\.\\.",
+  "　　　　　No tengo idea de lo que me espera más adelante..."
+ ],
+ "a22bcb81fbc21b48": [
+  "",
+  "　　　　　\\c[0]Si hubiera una forma más segura de probarlo, ",
+  "　　　　　quizá podría intentarlo... \\c[18]\\i[3] Con una lata, por ejemplo."
+ ],
+ "9d65ff88d978afb9": [
+  "",
+  "\\TA[1]Mejor no avanzar más."
+ ],
+ "c95e6fc54da99439": [
+  "",
+  "\\TA[1]Hay una pila de periódicos cubiertos de polvo.\\.\\. ",
+  "Cerca, botellas de licor tiradas por el suelo."
+ ],
+ "0a34237ba6f38783": [
+  "",
+  "　　　　　\\c[7](Se ve bastante viejo...\\.\\. ",
+  "　　　　　Diría que lleva años aquí.)"
+ ],
+ "fc8ac8b861959b78": [
+  "",
+  "\\TA[1]Un cartel dice: \\c[18]\"SOLO PERSONAL AUTORIZADO.\""
+ ],
+ "6b5b12c6c9ea8660": [
+  "",
+  "\\TA[1]Seguramente hace falta una llave..."
+ ],
+ "e6c1fe3a80faf19d": [
+  "",
+  "　　　　　\\c[7](¿De verdad debería entrar ahí...?)"
+ ],
+ "2ebd0d30df7f4e60": [
+  "",
+  "　　　　　\\c[7](En otras circunstancias, ni siquiera ",
+  "　　　　　miraría dos veces un lugar así.)"
+ ],
+ "287485e31ec890f6": [
+  "",
+  "\\TA[1]Cuesta saber qué tan profundo es."
+ ],
+ "94b142875784779d": [
+  "",
+  "　　　　　\\c[7](¿Otra moneda...?)"
+ ],
+ "bc24df40f7477a92": [
+  "",
+  "　　　　　\\c[7](Esta se siente distinta a la que encontré antes...\\.\\.",
+  "　　　　　Hay algo en ella que inquieta.)"
+ ],
+ "a3ea8ce0cd4229eb": [
+  "",
+  "　　　　　\\c[7](¿Qué es esto...?\\. ¿Una moneda...?\\.\\.",
+  "　　　　　Hay algo en su aspecto que inquieta...)"
+ ],
+ "a64935069a5f523c": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Moneda siniestra\\c[0] obtenida."
+ ],
+ "cfae17da54ae679c": [
+  "",
+  "　　　　　\\c[0](Mejor no me alejo demasiado...)"
+ ],
+ "47672ec7816f4bad": [
+  "",
+  "\\TA[1]Un cartel dice: \\c[18]\"Objetos Perdidos.\""
+ ],
+ "680399891a3f8a10": [
+  "",
+  "　　　　　\\c[0]... ¡Ahí está!\\.\\.",
+  "　　　　　Sabía que había una oficina de Objetos Perdidos."
+ ],
+ "fc650f103f8e2564": [
+  "",
+  "　　　　　\\c[0]Pero, ¿cómo entro...?"
+ ],
+ "444f2ad8aeee7dd5": [
+  "",
+  "\\TA[1]Un armario metálico.\\.\\.",
+  "A diferencia de los demás, \\i[3] \\c[18]este está cerrado con llave.\\c[0]"
+ ],
+ "56e04810c4d42727": [
+  "",
+  "\\TA[1]Un armario que funciona con monedas.\\.\\.",
+  "Dentro, un cartel dice: \\c[18]\"Donaciones para los necesitados.\""
+ ],
+ "79957bf5a16d2e53": [
+  "",
+  "　　　　　\\c[7](…………….)"
+ ],
+ "292a7a030cae1355": [
+  "",
+  "\\TA[1]Un armario metálico.\\.\\.",
+  "En su superficie está escrito: \\c[18]\"A mi amor\"\\c[0]."
+ ],
+ "b3ae10b18cad868a": [
+  "",
+  "　　　　　\\c[0]¡¿?!"
+ ],
+ "7f6333f22d3137b2": [
+  "",
+  "　　　　　\\c[0]Acabo de inhalar un humo extraño..."
+ ],
+ "6960f059fce4cc32": [
+  "",
+  "　　　　　\\c[0]Ugh...\\.\\. Me duele la cabeza..."
+ ],
+ "356a1ea13d45cb29": [
+  "",
+  "　　　　　\\c[0]No quiero volver a abrirlo..."
+ ],
+ "4680caf15e3157f2": [
+  "",
+  "\\TA[1]Una planta en maceta que casi parece de verdad."
+ ],
+ "76c75862b287ebb1": [
+  "",
+  "\\TA[1]Un armario metálico.\\.\\. No tiene ni una sola marca."
+ ],
+ "0c6c49a4940b1838": [
+  "",
+  "\\TA[1]No hay nada dentro."
+ ],
+ "6da261ae4902078f": [
+  "",
+  "　　　　　\\c[0](Espera,\\.\\. juraría que esta sala no era tan grande antes...)"
+ ],
+ "03781e242d00b16f": [
+  "",
+  "\\TA[1]Una nota adhesiva amarilla,\\. como si alguien la hubiera dejado aquí a propósito...\\.\\.",
+  "Cuanto más la miras, más inquietante se vuelve."
+ ],
+ "4a80505307bda928": [
+  "",
+  "　　　　　\\c[7](………….)"
+ ],
+ "2be6f9bff6b124bd": [
+  "",
+  "\\TA[1]Un armario con el pestillo casi arrancado,\\. colgando suelto."
+ ],
+ "d433d5e6d26e85cd": [
+  "",
+  "\\TA[1]Cuesta distinguirlo,\\. pero algo se sacude adentro de forma irregular...\\.\\.",
+  "como un cuerpo en pleno rigor mortis."
+ ],
+ "ac7bfa1208ba84a4": [
+  "",
+  "　　　　　\\c[7](Mejor lo ignoro...\\.\\.",
+  "　　　　　No creo que sea el armario del que hablaba.)"
+ ],
+ "4f2f73078a46ac15": [
+  "",
+  "\\TA[1]El armario se abre solo."
+ ],
+ "5c7f91d314c578ec": [
+  "",
+  "\\TA[1]...Dentro del armario hay un solo objeto."
+ ],
+ "e401551822d63eb2": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Tarjeta de acceso\\c[0] obtenida."
+ ],
+ "11b3705fa1df74cb": [
+  "",
+  "　　　　　\\c[0]Ah, ¡esta tarjeta...!\\. Tiene una etiqueta."
+ ],
+ "009f17106a543c23": [
+  "",
+  "　　　　　\\c[0]Con esto debería poder abrir la oficina de ",
+  "　　　　　\\i[3]\\c[18] Objetos Perdidos de abajo."
+ ],
+ "7297f3e2137dc4fe": [
+  "",
+  "　　　　　\\c[0]Entonces...\\. ¿esa voz de verdad quería ayudarme?\\.\\.",
+  "　　　　　Sinceramente, ya no entiendo nada de lo que pasa..."
+ ],
+ "2afe5548f60091bd": [
+  "",
+  "\\TA[1]Un panel de control lleno de interruptores y luces indicadoras.\\.\\. ",
+  "Algunas luces de estado parpadean en rojo."
+ ],
+ "ba5a674cfc069a8e": [
+  "",
+  "　　　　　\\c[0]El zumbido parece venir de aquí..."
+ ],
+ "743e5ec0a15e2759": [
+  "",
+  "\\TA[1]Una computadora de mantenimiento brilla sola en el silencio.\\.\\.",
+  "En el monitor se muestra una única imagen."
+ ],
+ "b6f7b9be39bb3340": [
+  "",
+  "　　　　　\\c[0]¿Ese no es el asiento en el que estaba sentada...?"
+ ],
+ "7f5827690030963c": [
+  "",
+  "　　　　　\\c[0]¿Por qué está vigilando justo ese punto...?"
+ ],
+ "ef26a17fe8b5917f": [
+  "",
+  "\\TA[1]Un cajón de escritorio corriente."
+ ],
+ "2faf4d98b5f590c1": [
+  "",
+  "\\TA[1]Algo dentro llama la atención por \\i[2]\\c[18] su envoltorio inusualmente brillante."
+ ],
+ "580f93bcdd4de593": [
+  "Tomarlo",
+  "Cancelar"
+ ],
+ "149ddac40a05b670": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Caramelo\\c[0] obtenido."
+ ],
+ "3d55615eecdbefb1": [
+  "",
+  "\\TA[1]Entre todo el desorden, algo llama la atención."
+ ],
+ "fe789df948ee3007": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Llave del armario\\c[0] obtenida."
+ ],
+ "ef741d3787085fc9": [
+  "",
+  "\\TA[1]Un armario corriente.\\.\\. La manija está dura,\\.",
+  "como si no lo hubieran abierto en mucho tiempo."
+ ],
+ "b8eb63ee5b64436d": [
+  "",
+  "\\TA[1]Un extintor viejo.\\.\\. Hay manchas alrededor del pasador de seguridad,\\.",
+  "como si no le hicieran mantenimiento desde hace años."
+ ],
+ "eca5c70f27fb1d92": [
+  "",
+  "\\TA[1]Una hilera de monitores llenos de datos y gráficos complejos.\\.\\. ",
+  "Las pantallas parpadean sin cesar,\\. bañando la sala en un azul pálido."
+ ],
+ "7fe2f34eb6f3715f": [
+  "",
+  "\\TA[1]Una computadora de mantenimiento con la pantalla apagada.\\.\\. ",
+  "A diferencia de la otra,\\. aquí se ve una gruesa capa de polvo."
+ ],
+ "c11973630401d9a8": [
+  "",
+  "\\TA[1]Hay una nota pegada encima del armario."
+ ],
+ "7a0843a6045b1395": [
+  "",
+  "\\TA[1][ Todo el personal de mantenimiento ha sido procesado",
+  "como [PÉRDIDA PERMANENTE] durante la inspección de la estación. ]"
+ ],
+ "48419c6cd75afc91": [
+  "",
+  "\\TA[1][ Todas las consultas administrativas se han",
+  "reasignado al número indicado abajo. ]"
+ ],
+ "077682658a42c7ee": [
+  "",
+  "\\TA[1][ Se informa que atravesamos una escasez de personal. ]"
+ ],
+ "bc350a8e8b4da6a2": [
+  "",
+  "\\TA[1][ Las consultas actuales las gestiona una sola réplika",
+  "implantada con recuerdos y cuerdas vocales de tres humanos. ]"
+ ],
+ "6f6f23970bd95ece": [
+  "",
+  "\\TA[1][ La estación no asume responsabilidad alguna",
+  "por confusiones ni por los incidentes que deriven. ]"
+ ],
+ "3f7014389b217e09": [
+  "",
+  "\\TA[1][ Línea de Regreso Seguro: \\c[18]4040 - 8213 ☎\\c[0] ]"
+ ],
+ "809538465aae5e2c": [
+  "",
+  "　　　　　\\c[0]¿Asistencia de Regreso Seguro...?\\.\\.",
+  "　　　　　Mejor me guardo esto,\\. por si acaso."
+ ],
+ "ab46336dac2dd1a2": [
+  "",
+  "\\TA[1]\\i[2] \\c[18]Nota misteriosa\\c[0] obtenida."
+ ],
+ "6aca9408c7471350": [
+  "  ",
+  "\\TA[1]\\c[15]\\{La pUErtA sE cErr0 s0lA mE EsTÁ MiRAnD0 ",
+  "ME EST■ M■R■ND■ MEESTÁM!RANDO M3ESTÁ~M!RANDO MEESTAMIRANDOME"
+ ],
+ "7632cd5887ceae3e": [
+  "  ",
+  "\\TA[1]\\{\\c[15]vetevetevetevetevetevetVETEVETEVETE",
+  "VETEVETEVETEVETEVETEVETEVETEVETEVETEVETEVETEVETE"
+ ],
+ "544c7148839fa479": [
+  "\\c[18]¿dE vErdAd",
+  "\\c[18]tE vAs",
+  "\\c[18]a Ir",
+  "\\c[18]dE aQuÍ?"
+ ],
+ "fa69a1278eaa67c6": [
+  "",
+  "　　　　　\\c[0]...¿Eh?"
+ ],
+ "4b890b9f3d4caa76": [
+  "",
+  "　　　　　\\c[0]¡¿Qué es todo esto...?!"
+ ],
+ "e94de8126ad4affe": [
+  "",
+  "\\TA[1]\\c[15]AQUÍ　ESTOY　AQUÍ　ESTOY　AQUÍ　ESTOY　",
+  "AQUÍ　ESTOY　AQUÍ　ESTOY　AQUÍ　ESTOY　AQUÍ　ESTOY　"
+ ],
+ "cbdaa3369d42c77b": [
+  "",
+  "    \\TA[1]\\c[15]\\{n0 pUEd0 AvAnZAr! NO PUEDO AVANZAR ■ ■■■■ ",
+  "■■■■ ■■■■■■■ !NOPUEDOAVANZAR! !NOPUEDO! !NOPUEDO!"
+ ],
+ "d52df5af994c26dc": [
+  "",
+  "\\TA[1]Todo parecen objetos perdidos.\\.\\. ",
+  "Curiosamente, se conservan sin una sola mota de polvo."
+ ],
+ "c4aaf3fbaf22e5d6": [
+  "",
+  "　　　　　\\c[0]No parece que haya nada mío en este estante..."
+ ],
+ "cdafdedea8a17263": [
+  "",
+  "　　　　　\\c[0]...¿Siempre hubo tantos objetos perdidos?"
+ ],
+ "aa2ba10b49c2e612": [
+  "",
+  "　　　　　\\c[0]No serán de gente que quedó atrapada en esto...\\.\\.",
+  "　　　　　igual que yo, ¿verdad...?"
+ ],
+ "2e99ae8493cb3e1a": [
+  "",
+  "　　　　　\\c[0]¡Mi bolso...!\\.\\. ¡Aquí está!"
+ ],
+ "7cd3c156577b4e4b": [
+  "",
+  "　　　　　\\c[0]Uf...\\.\\. Parece que todo sigue adentro."
+ ],
+ "0b7a6cb8bd6fc9d1": [
+  "",
+  "　　　　　\\c[7](Aunque no tengo idea de quién lo dejó aquí...)"
+ ],
+ "4ebb44919285c4c1": [
+  "",
+  "　　　　　\\c[7](...En fin,\\.\\. ahora que recuperé el bolso,\\.",
+  "　　　　　solo me queda salir de aquí.)"
+ ],
+ "0dd05286368219df": [
+  "",
+  "　　　　　\\c[7](Esos mensajes de antes...\\. Tengo que pensarlo bien.\\.\\.",
+  "　　　　　Si quiero salir de aquí sana y salva...)"
+ ],
+ "986ba7342e12c369": [
+  "",
+  "\\TA[1]\\i[2]\\c[18] Recuperé mi bolso.\\c[0]\\!",
+  "\\}\\c[7](Puedes revisarlo desde el inventario.)"
+ ],
+ "d2e57eb5c92c620b": [
+  "",
+  "\\TA[1]Aquí es donde estaba mi bolso.\\.\\.",
+  "\\i[3]\\c[18] Si quiero, puedo devolverlo a su sitio."
+ ],
+ "edd35428725a8285": [
+  "",
+  "\\TA[1]Mi bolso está en el estante."
+ ],
+ "bca3866d2b0668d0": [
+  "",
+  "\\TA[1]Una etiqueta dice: \"Firmas de verificación de pertenencias\".\\.\\.",
+  "\\i[3] \\c[18]Todas las firmas están hechas con tinta roja."
+ ],
+ "c42bff541a68c054": [
+  "",
+  "　　　　　\\c[0]Mmm...\\.\\. No veo la fecha de hoy por ningún lado."
+ ],
+ "3c20ea8c06643642": [
+  "",
+  "　　　　　\\c[0]Según las instrucciones, no debería ",
+  "　　　　　pasar esto por alto.\\.\\. \\i[3]\\c[18] Necesito algo con qué escribir."
+ ],
+ "1033145d13ea9831": [
+  "",
+  "\\TA[1]Una etiqueta dice: \"Firmas de verificación de pertenencias\".\\.\\.",
+  "\\i[3] \\c[18]En uno de los espacios en blanco, mi nombre firmado en tinta roja."
+ ],
+ "dc19a396791c2547": [
+  "",
+  "　　　　　\\c[7](Siempre me dijeron que nunca escribiera mi nombre en rojo...\\.\\.",
+  "Seguro que no pasa nada.)"
+ ],
+ "ea03ab174eca4d5d": [
+  "",
+  "\\TA[1]Una etiqueta dice: \"Firmas de verificación de pertenencias\".\\.\\.",
+  "En uno de los espacios en blanco veo mi nombre firmado en tinta negra."
+ ],
+ "5aeca66609190b73": [
+  "",
+  "　　　　　\\c[0]...¿La gente pierde bicicletas en las estaciones?"
+ ],
+ "c4e3a3a1144b1289": [
+  "",
+  "\\TA[1]En medio de un mar de sillas hay algo abandonado."
+ ],
+ "55b556fa46354587": [
+  "",
+  "\\TA[1]Me guardé la \\i[2]\\c[18] tarjeta de acceso\\c[0]."
+ ],
+ "e39333676cf65052": [
+  "",
+  "　　　　　\\c[0]Uf…….\\.\\. Por suerte no pasó nada peligroso."
+ ],
+ "d4c388c309a6a7ad": [
+  "",
+  "　　　　　\\c[0]Pero, ¿para qué sirve esta sala……?"
+ ],
+ "c2a79dc0a154a87a": [
+  "",
+  "\\TA[1]Un abrigo largo cuelga de una silla, tirado de cualquier manera.\\.\\."
+ ],
+ "c51ad435240a7ea2": [
+  "",
+  "　　　　　\\c[0]¿Esto también cuenta como objeto perdido……?"
+ ],
+ "687da92b3b18f586": [
+  "",
+  "　　　　　\\c[0]Apesta a perfume……."
+ ],
+ "a6c58275b9d5b554": [
+  "",
+  "\\TA[1]Un cuaderno liso, sin marcas.\\. Dentro se ven varios más.\\.\\.",
+  "Al darle la vuelta aparecen mis iniciales en la contratapa."
+ ],
+ "6501309d6f8df627": [
+  "Sacar",
+  "Cancelar"
+ ],
+ "c8a6d71d63b8a0ba": [
+  "",
+  "\\TA[1]\\i[3]\\c[18] Cuaderno azul\\c[0] obtenido."
+ ],
+ "6aabd966e2907b0d": [
+  "",
+  "\\TA[1]Mi credencial de estudiante,\\.\\. con mi foto y mi fecha de nacimiento."
+ ],
+ "8c63a36d8ee4634b": [
+  "Sacar",
+  "Cancelar"
+ ],
+ "80ec4847717f06f7": [
+  "",
+  "\\TA[1]\\i[3]\\c[18] Credencial de estudiante\\c[0] obtenida"
+ ],
+ "eb2900b2c3b69f22": [
+  "",
+  "\\TA[1]Un informe médico con todos los detalles de mi estado y mi diagnóstico.\\.\\.",
+  "En circunstancias normales, tendría que entregarlo mañana por la mañana."
+ ],
+ "5963cc18c9e53e63": [
+  "",
+  "\\TA[1]\\i[3]\\c[18] Informe médico\\c[0] obtenido."
+ ],
+ "50c50ff8f1577d23": [
+  "",
+  "\\TA[1]Una foto de cabina tomada con Jun.\\.\\.",
+  "Le sonríe radiante a la cámara."
+ ],
+ "0584d81d7acf8584": [
+  "",
+  "　　　　　\\c[7](Jun debe estar muerta de preocupación por mí...)"
+ ],
+ "aa219c5ebdd146b4": [
+  "",
+  "\\TA[1]\\i[3]\\c[18]Foto con Jun\\c[0] obtenida."
+ ],
+ "9ac9c69cba8f0d57": [
+  "",
+  "\\TA[1]Una cartera rosa.\\.\\.",
+  "Dentro no hay más que un poco de dinero para emergencias."
+ ],
+ "e8bf592d4032af48": [
+  "",
+  "\\TA[1]\\i[3]\\c[18] Cartera rosa\\c[0] obtenida."
+ ],
+ "71d0ee43984921de": [
+  "",
+  "　　　　　\\c[7](…\\.…\\.…\\.…\\.…\\..)"
+ ],
+ "3d77ab34ad99e81f": [
+  "",
+  "　　　　　\\c[7](...Nunca había visto este pasillo...)"
+ ],
+ "69463f4e2cbdaf7e": [
+  "",
+  "　　　　　\\c[7](¿Habrá funcionado...?)"
+ ],
+ "7edd831fe10a3813": [
+  "",
+  "　　　　　\\c[0]Creo que ya no voy a necesitar esto."
+ ],
+ "454eea6091563cf0": [
+  "",
+  "\\TA[1]\\i[3] \\c[18] Me deshice de lo que ya no necesitaba."
+ ],
+ "f739474d62865cb1": [
+  "",
+  "\\TA[1]\\c[18]\"— Escalera central en obras — Use la escalera del extremo izquierdo.\"\\c[0]\\.\\.",
+  "...Eso dice el cartel."
+ ],
+ "b922b3fc4b8b9e5e": [
+  "",
+  "\\TA[1]SOMBRA SIN RECLAMAR EN DEPÓSITO\\.\\.",
+  "Fecha: 32 de octubre de 202X.\\. Lugar: banco del pasillo central"
+ ],
+ "b662524de5d2e05c": [
+  "",
+  "\\TA[1]\"Características: arrancada por la fuerza de su dueño original. ",
+  "Si nadie la reclama, \\c[18]será reciclada como pintura mural. \\c[0]\""
+ ],
+ "df23480b7badf324": [
+  "",
+  "\\TA[1]\"Si su sombra ya no está bajo sus pies, acuda de inmediato.\""
+ ],
+ "fdfbc7353443554d": [
+  "",
+  "\\TA[1]... Un aviso muy raro para un centro comunitario."
+ ],
+ "d45bcef1f983ba8d": [
+  "",
+  "\\TA[1]\"El refugio definitivo: ",
+  "apartamentos \\c[18]ataúd individual\\c[0]\""
+ ],
+ "77c47d531d2be08e": [
+  "",
+  "\\TA[1]\"Insonorización total. Privacidad total.\\.\\.",
+  "REQUISITO DE INGRESO: masa proteica inferior a 0.5$m^3$\""
+ ],
+ "987d136d6de74ee9": [
+  "",
+  "\\TA[1]\"\\c[18]¡Nunca más se preocupe por una mudanza!\\c[0]",
+  "Ubicación inmejorable: la trituradora está a segundos.\""
+ ],
+ "f9416d76a124ae2f": [
+  "",
+  "\\TA[1]...Un anuncio inmobiliario muy raro."
+ ],
+ "df6ce1ad8895d961": [
+  "",
+  "\\TA[1]\"Programa de \\c[18][CANJE DE PIEL]\\c[0] para familias en duelo\""
+ ],
+ "0a337d7f5434cf99": [
+  "",
+  "\\TA[1]\"¿Llora usted a un familiar en pérdida permanente?\\.\\.",
+  "Nuestra fundación le provee \\c[18]piel compatible fresca\\c[0] sin costo alguno.\""
+ ],
+ "b27de4310c081736": [
+  "",
+  "\\TA[1]\"La incomodidad desaparece en tres días.\\.\\.",
+  "Vuelva a disfrutar de una cena familiar, sea real o no lo sea.\""
+ ],
+ "554fde2dae3ed111": [
+  "",
+  "\\TA[1]...Información asistencial muy rara."
+ ],
+ "5b078717a8ab4de1": [
+  "",
+  "　　　　　\\c[0]……La salida no es por aquí."
+ ],
+ "36c50eea109d3339": [
+  "",
+  "\\TA[1]El cristal de la expendedora está agrietado.\\. ",
+  "Y para colmo, está completamente vacía..."
+ ],
+ "3f7f353631616364": [
+  "",
+  "　　　　　\\c[7](No hay señal...)"
+ ],
+ "b81935f0a5273037": [
+  "",
+  "\\TA[1]\\c[18]\"escaleracentralenobrasus3laescaleradelextrem0izquierdoe...\"\\.\\.",
+  "...No logro entenderlo."
+ ],
+ "303b7bbf46fca769": [
+  "",
+  "　　　　　\\c[0]...\\. ¿Qué es todo esto...?"
+ ],
+ "40cbff7bb2de533c": [
+  "",
+  "　　　　　\\c[0]......\\.\\. Ah...."
+ ],
+ "de5d88d365beb257": [
+  "",
+  "　　　　　\\c[0]A-Algo anda mal.\\.\\.",
+  "　　　　　Algo anda definitivamente mal..."
+ ],
+ "efaa1bd25dcf2589": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>¡Atrás...!\\. ¡Tengo que volver ahora mismo...!\\|\\|\\^"
+ ],
+ "7b6ac64f7024b30a": [
+  "",
+  "　　　　　\\c[0]......\\.\\. M-Me llegó un mensaje..."
+ ],
+ "b5dcecfcdc45b9ce": [
+  "",
+  "\\TA[1]\\c[15]\"No siguió el proceso de inspección según lo indicado,\\.\\.",
+  "y por lo tanto no logró acreditarse.\""
+ ],
+ "04e5b65d6c2bf314": [
+  "",
+  "\\TA[1]\\c[15]\"Lamentablemente, su categoría fue reducida de oficio",
+  "de sujeto protegido a recurso consumible.\""
+ ],
+ "ef93ec6960a7c69f": [
+  "",
+  "\\TA[1]\\c[15]\"En un momento se extraerán sus cuerdas vocales",
+  "para el Número #3.\\. Su piel y masa restante serán recicladas.\""
+ ],
+ "cf83113a669ac0a1": [
+  "",
+  "\\TA[1]\\{\\c[15]\"Felicitaciones por su pérdida permanente.\""
+ ],
+ "fde80ee44de5889c": [
+  "",
+  "　　　　　\\c[0]¿Felicitaciones...?\\.\\.",
+  "　　　　　Entonces...\\. ¿eso significa que voy a morir aquí...?"
+ ],
+ "cdd8adc8609064a7": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>N-No...\\.\\. Tengo que volver a casa...\\.\\.",
+  "　　　　　Jun me está esperando...\\. Tiene que estar esperándome..."
+ ],
+ "4db607fcecad798d": [
+  "",
+  "　　　　　\\c[18]\\.…\\.…\\.…\\.\\.Ah.\\|\\|\\|\\^"
+ ],
+ "d4d512637c6ad713": [
+  "",
+  "　　　　　\\c[0]…………¿Ah?"
+ ],
+ "970e0304acc062ac": [
+  "",
+  "\\TA[1]\"El acceso civil a esta zona está restringido por saturación de \\c[18]■■■\\c[0].\""
+ ],
+ "d64c5c1cd7155f0f": [
+  "",
+  "\\TA[1]\"Se advierte que la Oficina de la Estación no se responsabiliza por",
+  "ninguna \\c[18][DESCOMPOSICIÓN FÍSICA]\\c[0] que ocurra más allá de este punto.\""
+ ],
+ "78d292a84495442c": [
+  "",
+  "　　　　　\\c[0]Qué raro,\\.\\.",
+  "　　　　　estoy segura de que salí de la estación..."
+ ],
+ "8a4419631545ff35": [
+  "",
+  "　　　　　\\c[0]Pero siento que me estoy metiendo más adentro."
+ ],
+ "c43671a7313df6a2": [
+  "",
+  "\\TA[1]El cartel de salida de emergencia apunta en la dirección contraria."
+ ],
+ "11a4a06f36e72dfa": [
+  "",
+  "\\TA[1]Arriba hay pegada una nota misteriosa."
+ ],
+ "5721aba16564579f": [
+  "",
+  "\\TA[1]\"Esta dimensión es fascinante,\\. pero también un flujo constante de inestabilidad.\\.\\.",
+  "A veces te llevará a lugares con intenciones incomprensibles.\""
+ ],
+ "972e444ee9137b16": [
+  "",
+  "\\TA[1]\"Si te cruzas con carteles o señales de cualquier tipo,\\.\\.",
+  "te recomiendo encarecidamente examinarlos con cuidado.\""
+ ],
+ "e02896eccfaa468e": [
+  "",
+  "　　　　　\\c[0]La letra es la misma que la del cuaderno.\\.\\.",
+  "　　　　　Supongo que lo escribió la misma persona."
+ ],
+ "014eb8402d805859": [
+  "",
+  "　　　　　\\c[0]...¿Sangre?\\.\\.",
+  "　　　　　¿Por qué hay tanta sangre...?"
+ ],
+ "92ff0fca99df92f3": [
+  "",
+  "　　　　　\\c[0]No son imaginaciones mías...\\.\\.",
+  "　　　　　De ahí adelante viene un olor horrible..."
+ ],
+ "fc2a7f0b87d1f63c": [
+  "",
+  "\\TA[1]\\i[1] \\c[18]¿Saltar esta sección?\\c[0]\\.\\.",
+  "\\c[7] (Se omitirán algunas escenas y eventos de esta sección.)"
+ ],
+ "153cd3fe7f61c64b": [
+  "Saltar",
+  "No saltar"
+ ],
+ "170ffeee7a49a883": [
+  "",
+  "　　　　　\\c[0]Algo anda mal...\\.\\. \\Shake<0.5>¡Tengo que salir de aquí!"
+ ],
+ "74725f43430a605f": [
+  "",
+  "　　　　　\\c[0]…\\.…\\.…\\.…\\.…\\.."
+ ],
+ "07deeac8dae08832": [
+  "",
+  "　　　　　\\c[0]Creo que este no era el camino, después de todo..."
+ ],
+ "3783bd6dba83557e": [
+  "",
+  "　　　　　\\c[0]Me habré equivocado en algún cruce.\\.\\.",
+  "　　　　　Mejor vuelvo por don—\\|\\|\\^"
+ ],
+ "6b4046ff37853ae4": [
+  "",
+  "　　　　　\\c[0]¿Eh?\\.\\. ¿Un mensaje...?"
+ ],
+ "313400815ca26573": [
+  "",
+  "\\TA[1]\\{\\c[15]「 \\.\\.Te\\. encontré\\. 」\\|\\|\\^"
+ ],
+ "49a1545922e5445f": [
+  "",
+  "　　　　　\\c[0]……¿Eh?"
+ ],
+ "b445db597419f365": [
+  "",
+  "　　　　　\\c[0]¿Q-Qué...?\\.\\. ¿Cómo saben dónde estoy?"
+ ],
+ "647169323530512d": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>No...\\.\\. ¡Ya no quiero esto...!"
+ ],
+ "c7a4872e291b3d6a": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>¿Por qué no puedo volver a casa?\\.\\. ¿Por qué estoy aquí?"
+ ],
+ "d4bcf95008e0f5eb": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>No entiendo...\\.\\. ¡No entiendo nada de esto...!!"
+ ],
+ "caf009262b247fea": [
+  "",
+  "　　　　　\\c[0]………!!"
+ ],
+ "2fe7a1f41962b43d": [
+  "",
+  "　　　　　\\c[0]Es un callejón sin salida..."
+ ],
+ "800e63bb777e1643": [
+  "",
+  "　　　　　\\c[0]No me digas que...\\.\\. ",
+  "　　　　　¿me siguieron hasta aquí...?"
+ ],
+ "5043d53ae7d97468": [
+  "",
+  "　　　　　\\c[0]\\Shake<0.5>N-No...\\.\\. ¡No quiero morir...!\\|\\|\\^"
+ ],
+ "138f5691cd689d93": [
+  "",
+  "　　　　　\\c[18]\\Shake<0.5>Que alguien...\\.\\. ¡Por favor...!\\|\\|\\^"
+ ],
+ "70b69b8ce2f1c4ca": [
+  "",
+  "　　　　　\\c[0]¡Uf!\\.\\. Justo a tiempo."
+ ],
+ "cfb715e38cb17664": [
+  "",
+  "　　　　　\\c[0]¿Y este desastre?\\.\\. ",
+  "　　　　　Van en manada,\\. atacando como idiotas..."
+ ],
+ "033468f873ae37d0": [
+  "",
+  "　　　　　\\c[0]Malditos cerdos,\\. ",
+  "　　　　　chillando como si fueran alguien."
+ ],
+ "4201fe94eace2a4b": [
+  "",
+  "　　　　　\\c[7](¿Qué...?\\. Alguien apareció de la nada...)"
+ ],
+ "a201af6e44f16d0a": [
+  "",
+  "　　　　　\\c[7](¿Acaba de...\\.\\. matarlos...?)"
+ ],
+ "7e410c5bc02466ce": [
+  "",
+  "　　　　　\\c[0]Vaya,\\. vaya,\\.\\. ¿y ahora qué?"
+ ],
+ "dffa2c8066445f24": [
+  "",
+  "　　　　　\\c[0]¿Una humana?\\.\\. Tú no tendrías por qué estar aquí."
+ ],
+ "ea0c22eb29b5d6a0": [
+  "",
+  "　　　　　\\c[0]Jaja,\\. no tienes la más mínima idea de dónde estás."
+ ],
+ "c935240a5d459b1b": [
+  "",
+  "　　　　　\\c[7](Esto está mal...\\.\\. Tengo tanto miedo que no me sale la voz...)"
+ ],
+ "7631d44057f2b8cb": [
+  "",
+  "　　　　　\\c[7]Y sobre todo... esos ojos...\\.\\.",
+  "　　　　　¡No pueden ser humanos...!!"
+ ],
+ "009173b4a92c6eb8": [
+  "",
+  "　　　　　\\c[7](¿Qué se supone que-\\.\\.\\^)"
+ ],
+ "8398bf682b6ae09f": [
+  "",
+  "　　　　　\\c[0]Ahí te quedas, boquiabierta,\\. ¿eh?\\.\\. Es comprensible."
+ ],
+ "cc3eb8797e10a37c": [
+  "",
+  "　　　　　\\c[0]No es asunto mío cómo terminaste aquí,\\. ",
+  "　　　　　pero..."
+ ],
+ "d9c833e8baacb231": [
+  "",
+  "　　　　　\\c[18]Ver cómo una humana se retuerce ",
+  "　　　　　hasta morir puede ser divertido.\\|\\|\\.\\.\\^"
+ ],
+ "82236d1da0dedb36": [
+  "",
+  "　　　　　\\c[0]……¿Eh?"
+ ],
+ "cc0996ea41be7a58": [
+  "",
+  "　　　　　\\c[0]Uy…….\\.\\. ¿Me pasé molestándola?"
+ ],
+ "952f375412e89ff2": [
+  "Start"
+ ],
+ "502f15a503a994b2": [
+  "──────test──────"
+ ],
+ "cf46f7ca3cb03d8f": [
+  "──────prolog──────"
+ ],
+ "28fac588647cc47b": [
+  "TrainB"
+ ],
+ "cb5a5fe28ae0f408": [
+  "TrainA"
+ ],
+ "af39a9f5de420eb4": [
+  "TrainC"
+ ],
+ "63788bebb57968af": [
+  "──────CH1──────"
+ ],
+ "1f0ce5d59c2ac8eb": [
+  "Train_pr"
+ ],
+ "25106fc976a23e8b": [
+  "SCEEN1"
+ ],
+ "7059c8be66ef4151": [
+  "TrainE"
+ ],
+ "46a97d63b80f0b56": [
+  "TrainD-2"
+ ],
+ "570556e92711a1fe": [
+  "TrainD-1"
+ ],
+ "97f269904a195e6a": [
+  "TrainF"
+ ],
+ "b60d121b438a380c": [
+  "xxx"
+ ],
+ "66ce6cb338f77d46": [
+  "TrainF-1"
+ ],
+ "e4093f41f837619b": [
+  "TrainE-1"
+ ],
+ "9acfff7321feb38f": [
+  "TrainF-2"
+ ],
+ "e91cdce157ea6220": [
+  "DEADROOM"
+ ],
+ "fe9c5c4d4389b4f4": [
+  "TrainF-3"
+ ],
+ "0821894099c82735": [
+  "Room-1"
+ ],
+ "aefe27dcb06ccf86": [
+  "TrainD"
+ ],
+ "f9cc4b137d7a3923": [
+  "Room-2"
+ ],
+ "6bb488c2db37149d": [
+  "xxx2"
+ ],
+ "b61c62b73cb2c2ee": [
+  "SCEEN2"
+ ],
+ "f5ae73a9a60fdda1": [
+  "TrainG-True"
+ ],
+ "147e618954143aaf": [
+  "TrainG-False"
+ ],
+ "cdee8fe7148c9d7a": [
+  "True2"
+ ],
+ "4918f301b67e3b38": [
+  "False3-end"
+ ],
+ "94f4f4cdd1556297": [
+  "True3"
+ ],
+ "6ff3852415dce38f": [
+  "False2"
+ ],
+ "5c483d5689a4df3b": [
+  "True4-run2"
+ ],
+ "35b5d0a0813ef299": [
+  "True4-run1"
+ ],
+ "c996988d7160a5cd": [
+  "True4-last"
+ ],
+ "d7533c6329444133": [
+  "True4-last2"
+ ],
+ "b53a74fdf3881600": [
+  "──────CH1 end──────"
+ ],
+ "ed6c38c66cbccf57": [
+  "True4-last3"
+ ],
+ "2a9c189a93d7e052": [
+  "Atacar"
+ ],
+ "97156600564384f8": [
+  " ataca!"
+ ],
+ "bcc9f5bcd6a85996": [
+  "Defender"
+ ],
+ "6f9caf2b8b8db2f7": [
+  " se pone en guardia."
+ ],
+ "35b5789ee102a470": [
+  "Ataque continuo"
+ ],
+ "6974c3b82422d262": [
+  "Ataque doble"
+ ],
+ "1617c79537a2fd70": [
+  "Ataque triple"
+ ],
+ "237fc4fa0ed252e0": [
+  "Huir"
+ ],
+ "ce83fdc87dbd5331": [
+  " huye."
+ ],
+ "f8a0fb65ed0108f4": [
+  "Esperar"
+ ],
+ "734cecd6dfca580b": [
+  " observa la situación."
+ ],
+ "f6abe5a49acaf961": [
+  "Curación"
+ ],
+ "3ca9bf581af0c715": [
+  " ¡usa %1!"
+ ],
+ "e0a777a2f2850edb": [
+  "Fuego"
+ ],
+ "b2b70795f4a31602": [
+  "Chispa"
+ ],
+ "22a2a0c79989fe05": [
+  "Fuera de combate"
+ ],
+ "d90eb5da6052c8d0": [
+  " cae derrotado!"
+ ],
+ "4f77015a760fd7cc": [
+  " ha sido derrotado!"
+ ],
+ "52d1f0d8b50617af": [
+  " revive!"
+ ],
+ "21c74d068ce03c8a": [
+  "Inmortal"
+ ],
+ "2b0b630e57e02bc2": [
+  "Veneno"
+ ],
+ "7ae36229cc18f2a7": [
+  " está envenenado!"
+ ],
+ "7eef8c35d34c3f5d": [
+  " se ha curado del veneno!"
+ ],
+ "b62f0a9a8549b528": [
+  "Ceguera"
+ ],
+ "ff4d52b7180157a7": [
+  " está cegado! "
+ ],
+ "d6f300912239dc9c": [
+  " ya no está cegado!"
+ ],
+ "b5acb398d5b7464b": [
+  "Silencio"
+ ],
+ "cb79c6b0c8fc4c2b": [
+  " está silenciado!"
+ ],
+ "5001f39fb6ef102b": [
+  " ya no está silenciado!"
+ ],
+ "4b226ffc1cd4ecfb": [
+  "Furia"
+ ],
+ "eb50763415c67459": [
+  " está enfurecido!"
+ ],
+ "ac3b73b7243dad52": [
+  " ya no está enfurecido!"
+ ],
+ "738a3f61e4cdcb17": [
+  "Confusión"
+ ],
+ "a285fccd7c54bfcf": [
+  " está confundido!"
+ ],
+ "856e912275ed8978": [
+  " ya no está confundido!"
+ ],
+ "7a169c27a497376b": [
+  "Encanto"
+ ],
+ "2dcd8dea0806e7fd": [
+  " está encantado!"
+ ],
+ "3dd456b13de47e71": [
+  " ya no está encantado!"
+ ],
+ "a7fc3aeb0b38cde4": [
+  "Sueño"
+ ],
+ "8d458529f749fc05": [
+  " se duerme!"
+ ],
+ "0d6dfc53a7a7b536": [
+  " está dormido."
+ ],
+ "8731722bd1154d5c": [
+  " despierta!"
+ ],
+ "3919113cf65254cf": [
+  "CONDOMINIUM: NO EXIT_español"
+ ],
+ "a36a6718f54524d8": [
+  "G"
+ ],
+ "b26a98f39b7b9605": [
+  "Armadura general"
+ ],
+ "20ccd4e197e57f08": [
+  "Armadura mágica"
+ ],
+ "217d56ded60716df": [
+  "Armadura ligera"
+ ],
+ "356e5ea5f8efafa3": [
+  "Armadura pesada"
+ ],
+ "2cc20ca63bdd425d": [
+  "Escudo pequeño"
+ ],
+ "398717ef679902d9": [
+  "Escudo grande"
+ ],
+ "73ba2dfcead86ed6": [
+  "Daga"
+ ],
+ "a2a7e66e5a044229": [
+  "Espada"
+ ],
+ "a42be9555c367306": [
+  "Maza"
+ ],
+ "2c9df88acc8e4650": [
+  "Hacha"
+ ],
+ "260f8c368cd7d606": [
+  "Látigo"
+ ],
+ "e5ed98c9e3786988": [
+  "Bastón"
+ ],
+ "1c93d62f3b262cf6": [
+  "Arco"
+ ],
+ "ead0dced5d29268f": [
+  "Ballesta"
+ ],
+ "10d96eb9393015ce": [
+  "Pistola"
+ ],
+ "28057263068d7ae3": [
+  "Garras"
+ ],
+ "0ed8bed883f9cef9": [
+  "Guantelete"
+ ],
+ "c214a6b8d07886e5": [
+  "Lanza"
+ ],
+ "9d41799d2591211d": [
+  "Magia"
+ ],
+ "88d86d851b23b3e8": [
+  "Técnica especial"
+ ],
+ "8c4dac1fcc53fb41": [
+  "Arma"
+ ],
+ "75b9f271b08320f6": [
+  "Cabeza"
+ ],
+ "749d1d3fd7ce2610": [
+  "Cuerpo"
+ ],
+ "e004b03a4bbc759e": [
+  "Accesorio"
+ ],
+ "3c2ad9595dd4c46b": [
+  "Físico"
+ ],
+ "43942b11dfe13c39": [
+  "Hielo"
+ ],
+ "70e2e69d30f14c58": [
+  "Trueno"
+ ],
+ "be8a7912294f46df": [
+  "Agua"
+ ],
+ "cf297e2c5eabae72": [
+  "Tierra"
+ ],
+ "80440affdf53234a": [
+  "Viento"
+ ],
+ "29990010f4f962e2": [
+  "Luz"
+ ],
+ "0fd0189a792f0adc": [
+  "Oscuridad"
+ ],
+ "453d0d2df59491b9": [
+  "Nivel"
+ ],
+ "1aa6e8ca661079f4": [
+  "Nv"
+ ],
+ "5200bdfc01a139a7": [
+  "HP"
+ ],
+ "3704f1f9dae9461d": [
+  "MP"
+ ],
+ "87a0fb99758ee7f9": [
+  "TP"
+ ],
+ "6c208e949d20bfe9": [
+  "EXP"
+ ],
+ "ce0ffe1bedc84af5": [
+  "Luchar"
+ ],
+ "a68bd9b88e06d7fb": [
+  "Huir"
+ ],
+ "b62250fe8db05779": [
+  "Objetos"
+ ],
+ "2b47128fd2812abc": [
+  "Habilidades"
+ ],
+ "818a75cd98ecdb95": [
+  "Equipo"
+ ],
+ "fc1e0d2afaf7b281": [
+  "Estado"
+ ],
+ "add007850d561c79": [
+  "Formación"
+ ],
+ "1f1712acff27e666": [
+  "Guardar"
+ ],
+ "c67ed36ba334d49b": [
+  "Salir del juego"
+ ],
+ "3c7dbce65d69875e": [
+  "Opciones"
+ ],
+ "44f9a814fe297eb3": [
+  "Armadura"
+ ],
+ "41d5da6a6e1b9eaa": [
+  "Objetos clave"
+ ],
+ "4ef4738c39a3f7f6": [
+  "Optimizar"
+ ],
+ "5106fa4dae6a438c": [
+  "Quitar todo"
+ ],
+ "5b4d0867502065b3": [
+  "Partida nueva"
+ ],
+ "995224fb92dd765d": [
+  "Continuar"
+ ],
+ "1e23655d865ac3e4": [
+  "Ir al título"
+ ],
+ "19b2d19bc14102ec": [
+  "Cancelar"
+ ],
+ "6f2a161fa205c7e6": [
+  "Comprar"
+ ],
+ "509b5caa3e4ed93b": [
+  "Vender"
+ ],
+ "d3c3d456f7e84e27": [
+  "MP máx."
+ ],
+ "2a87c14e4abc2cb2": [
+  "Defensa"
+ ],
+ "03e21134cddd7783": [
+  "Ataque mágico"
+ ],
+ "27a6c002ef31535b": [
+  "Defensa mágica"
+ ],
+ "983ffcfec3b0a59e": [
+  "Agilidad"
+ ],
+ "f75985d4d4ad1e0c": [
+  "Suerte"
+ ],
+ "74b03362e7f7e277": [
+  "Precisión"
+ ],
+ "e63ab8ca4cad6f3a": [
+  "Evasión"
+ ],
+ "c423c6913a2ceae3": [
+  "¡No tuvo ningún efecto en %1!"
+ ],
+ "4fa6412a9acac800": [
+  "¡%1 recibe %2 de daño!"
+ ],
+ "b711c4ca13ff895c": [
+  "¡A %1 le drenaron %3 de %2!"
+ ],
+ "54fa7215cf6f8c0e": [
+  "¡%1 gana %3 de %2!"
+ ],
+ "e93bef1694ac0888": [
+  "¡%1 pierde %3 de %2!"
+ ],
+ "556ad684355fd42e": [
+  "¡%1 no recibió daño!"
+ ],
+ "8550ee912bb96b3a": [
+  "¡Fallo! %1 no recibió daño."
+ ],
+ "c956173517d7295f": [
+  "¡%1 recupera %3 de %2!"
+ ],
+ "87d57f6a0044632e": [
+  "¡%2 de %1 ha subido!"
+ ],
+ "c77bec36f51f7a18": [
+  "¡%2 de %1 vuelve a la normalidad!"
+ ],
+ "30e47ebc6c00b2d7": [
+  "Recordar comando"
+ ],
+ "c032757054a874e1": [
+  "¡%1 contraataca!"
+ ],
+ "d00dcf070d2a6547": [
+  "¡¡Golpe demoledor!! "
+ ],
+ "599dfef5714f25fb": [
+  "¡¡Golpe crítico!!"
+ ],
+ "157208e2db27d25e": [
+  "¡%2 de %1 ha bajado!"
+ ],
+ "d6fcc3d3364f1ddb": [
+  "%1 ha sido derrotado."
+ ],
+ "62881756b7111992": [
+  "¡Aparece %1!"
+ ],
+ "001a28a55e06d04c": [
+  "¡Pero no se pudo escapar!"
+ ],
+ "0c29b49e99244958": [
+  "¡%1 empieza a huir!"
+ ],
+ "6a02f580e0a500c7": [
+  "¡%1 esquiva el ataque!"
+ ],
+ "41a352c32523931e": [
+  "Para el próximo %1"
+ ],
+ "222b32b306fb4192": [
+  "%1 actual"
+ ],
+ "1b3cb484695189b5": [
+  "LLAMADA"
+ ],
+ "70d99418e6a2e405": [
+  "¡%1 alcanza el %2 %3!"
+ ],
+ "89264add5e14a137": [
+  "¿Qué archivo quieres cargar?"
+ ],
+ "d3890ece8353c0a1": [
+  "¡%1 anula la magia!"
+ ],
+ "011391b98dad79fc": [
+  "¡%1 refleja la magia!"
+ ],
+ "d6444e015ebe5e56": [
+  "¡Has ganado %1 %2!"
+ ],
+ "b11bba372fe53e5c": [
+  "¡Has encontrado %1\\G!"
+ ],
+ "cb882325df4f9fa8": [
+  "¡Has encontrado %1!"
+ ],
+ "570035630baed9ca": [
+  "¡Has aprendido %1!"
+ ],
+ "a5e38520582d1930": [
+  "Grupo de %1"
+ ],
+ "7eb12422e55689e2": [
+  "En posesión"
+ ],
+ "3131db73a5dfd33f": [
+  "¡%1 toma la delantera!"
+ ],
+ "cdb8f9f584b48b61": [
+  "¿En qué archivo quieres guardar?"
+ ],
+ "b3b4c106866a9d9e": [
+  "¡%1 protege a %2!"
+ ],
+ "aa85db248b47ad98": [
+  "¡%1 fue tomado por sorpresa!"
+ ],
+ "d92bd85317ba8b93": [
+  "¡%1 usa %2!"
+ ],
+ "351c3c0ed51134b0": [
+  "¡%1 gana el combate!"
+ ]
+}
